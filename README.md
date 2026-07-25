@@ -79,7 +79,10 @@
 1. [[⭐⭐⭐] https://arc.tencent.com/zh/ai-demos/faceRestoration](https://arc.tencent.com/zh/ai-demos/faceRestoration) **Arc Lab。** ARC是腾讯旗下ARC（Applied Research Center，应用研究中心）实验室推出的系列AI图片处理工具，目前提供了三项免费的AI图像功能：人像修复、人像抠图和动漫增强。
 1. [[⭐⭐⭐] https://tongyi.aliyun.com/wanxiang/](https://tongyi.aliyun.com/wanxiang/) **通义万相。** 通义万相是一个不断进化的 AI 绘画创作模型。它能够刻削生千变，呈现出丰富多样的艺术作品。通义万相具有高度智能化的绘画能力，可以自主创作出优秀的绘画作品。它的优势在于通过深度学习算法不断进化，能够逐步提高绘画的质量和逼真度。通义万相的定价根据使用方式和使用场景而定，详情请登录官方网站了解。该产品定位于艺术创作领域，为艺术家、设计师和爱好者提供强大的创作工具。
 1. [[⭐⭐⭐] https://www.midjourney.com](https://www.midjourney.com) **Midjourney。** Midjourney 是目前AI绘图最强大的存在
-1. [[⭐⭐] https://d.design](https://d.design) **阿里堆友。** 堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。
+1. [[⭐⭐] https://d.design](https://d.design) **阿里堆友。** 堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。 `[error][-1]AggregateError [ETIMEDOUT]: 
+    at internalConnectMultiple (node:net:1194:18)
+    at internalConnectMultiple (node:net:1270:5)
+    at Timeout.internalConnectMultipleTimeout (node:net:1811:`
 1. [[⭐⭐] https://image3d.io](https://image3d.io) **Image3D。** AI 图片转 3D 模型工具，支持从单张图片生成 3D 资产，并导出 GLB、OBJ、STL、PLY 等格式。
 1. [[⭐] https://ai.logo123.com](https://ai.logo123.com) **123LOGO生成器。** LOGO123 是一款超级智能好用的 Logo 在线设计生成器，为您提供免费公司 logo 设计制作。只需输入品牌名称就能免费在线生成公司 logo 设计及配套企业 VI，轻松打造您的个性品牌！我们还提供配套名片、企业 VI、专业出品、版权可商用等服务，帮助您打造完整的品牌形象。
 1. [[⭐] https://ai.meitu.com/index](https://ai.meitu.com/index) **美图AI开放平台。** 美图推出的AI人脸图像处理平台
@@ -175,7 +178,7 @@
 1. [[⭐] https://www.creati.studio](https://www.creati.studio) **AI Backdrop。** Viral AI Video Generator For Url, Image Or Text To Video
 1. [[⭐] https://www.cutout.pro](https://www.cutout.pro) **Cutout Pro。** 全能视觉设计平台，包含 AI 照片和视频编辑工具。自动化背景移除、图像修复、平面设计等。
 1. [[⭐] https://www.daftart.ai](https://www.daftart.ai) **Daft Art。** AI专辑封面图片生成器
-1. [[⭐] https://www.designhill.com/tools/logo-maker](https://www.designhill.com/tools/logo-maker) **Designhill Logo Maker。** Designhill Logo Maker是一款AI-powered的在线logo制作工具，无需设计技能即可创建专业的logo。该工具拥有丰富的图形设计元素，包括字体、图标和图形，可以根据用户的喜好生成数百种设计。用户可以根据自己的品牌需求选择合适的logo样式、颜色和主题，并使用logo编辑器进行个性化修改。生成的logo可以下载为SVG、EPS、PNG和JPEG格式的高分辨率矢量文件，适用于印刷和数字版本。此外，该工具还提供品牌指南、24*7客户支持、彩色和透明背景的logo、黑白版本的logo以及100%可定制的logo等功能。Designhill Logo Maker适用于所有规模的企业和个人，是打造品牌形象的理想选择。
+1. [[⭐] https://www.designhill.com/tools/logo-maker](https://www.designhill.com/tools/logo-maker) **Designhill Logo Maker。** Designhill Logo Maker是一款AI-powered的在线logo制作工具，无需设计技能即可创建专业的logo。该工具拥有丰富的图形设计元素，包括字体、图标和图形，可以根据用户的喜好生成数百种设计。用户可以根据自己的品牌需求选择合适的logo样式、颜色和主题，并使用logo编辑器进行个性化修改。生成的logo可以下载为SVG、EPS、PNG和JPEG格式的高分辨率矢量文件，适用于印刷和数字版本。此外，该工具还提供品牌指南、24*7客户支持、彩色和透明背景的logo、黑白版本的logo以及100%可定制的logo等功能。Designhill Logo Maker适用于所有规模的企业和个人，是打造品牌形象的理想选择。 `[error][-1]timeout`
 1. [[⭐] https://www.designify.com](https://www.designify.com) **Designify。** 免费在线抠图，识别内容，提供适合的合成设计
 1. [[⭐] https://www.designkit.com](https://www.designkit.com) **美图设计室。** 美图设计室是美图秀秀旗下的智能设计在线协作平台，是一款平面设计工具和在线平面设计软件,提供海量海报模板,跨境电商模板,跨境电商banner,跨境电商主图,邀请函,公告通知,喜报,logo等免费设计素材和模板,可在线智能生成海报,一键换色,一键换装,一键去水印,图片高清修复,无损放大,抠图,拼图。
 1. [[⭐] https://www.erase.bg](https://www.erase.bg) **Erase.bg。** Erase.bg是一款免费在线工具，可以去除人物、动物或物体图片的背景，并提供高分辨率的透明图片下载。无需信用卡，适用于电子商务和个人使用。
@@ -220,7 +223,10 @@
 1. [[⭐] https://www.usegalileo.ai](https://www.usegalileo.ai) **Galileo AI。** AI生成可编辑的UI界面
 1. [[⭐] https://www.usesuperflow.com](https://www.usesuperflow.com) **Superflow。** AI辅助高效网站协作设计
 1. [[⭐] https://www.visily.ai](https://www.visily.ai) **Visily。** 实用！AI轻松将手绘线框转换为高保真度
-1. [[⭐] https://www.whee.com](https://www.whee.com) **美图WHEE。** WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。
+1. [[⭐] https://www.whee.com](https://www.whee.com) **美图WHEE。** WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。 `[error][-1]AggregateError [ETIMEDOUT]: 
+    at internalConnectMultiple (node:net:1194:18)
+    at internalConnectMultiple (node:net:1270:5)
+    at Timeout.internalConnectMultipleTimeout (node:net:1811:`
 1. [[⭐] https://www.wix.com/logo/maker](https://www.wix.com/logo/maker) **Wix Logo Maker。** Wix Logo Maker 是一款由人工智能驱动的在线设计工具，允许你免费创建和定制专业 Logo。通过回答几个简单问题，即可获得符合你需求的独特 Logo。
 1. [[⭐] https://www.x-design.com](https://www.x-design.com) **美图 AI PPT。** 美图设计室是一款由中国互联网公司美图公司开发的图像处理、照片编辑和设计软件。
 1. [[⭐] https://www.yijianlogo.com](https://www.yijianlogo.com) **一键Logo设计。** 一键Logo设计是一款基于AI大数据计算的智能设计生成器，只需简单输入名称口号，选择行业偏好，即可一键生成LOGO。所有元素均可调整修改，多种格式文件均可下载导出。一次购买长期使用，各种模板字体均可商用。适用于需要快速生成LOGO的个人、企业、团队等用户。
@@ -228,7 +234,10 @@
 1. [[⭐] https://www.ysdaima.com](https://www.ysdaima.com) **颜色代码表。** 颜色代码表是一个为设计师和开发者提供一站式色彩解决方案的专业网站。运用机器学习技术，为您推荐最适合的配色方案AI辅助配色。它基于色彩理论，提供多种颜色工具，包括颜色代码转换、配色方案生成、渐变色生成等，帮助用户快速高效地完成设计工作。该网站支持多种颜色格式，并提供代码导出功能，方便用户将颜色方案直接应用到项目中。此外，它还符合WCAG 2.1标准，确保配色方案的无障碍设计。
 1. [[⭐] https://www.zmo.ai](https://www.zmo.ai) **ZMO.AI。** ZMO可以轻松的生成令人惊叹的动漫、艺术或图像。
 1. [[⭐] https://yige.baidu.com](https://yige.baidu.com) **文心一格。** 百度旗下AI艺术和创意辅助平台
-1. [[⭐] https://yunxiu.meitu.com/home](https://yunxiu.meitu.com/home) **美图云修。** 商业级AI影像处理工具
+1. [[⭐] https://yunxiu.meitu.com/home](https://yunxiu.meitu.com/home) **美图云修。** 商业级AI影像处理工具 `[error][-1]AggregateError [ETIMEDOUT]: 
+    at internalConnectMultiple (node:net:1194:18)
+    at internalConnectMultiple (node:net:1270:5)
+    at Timeout.internalConnectMultipleTimeout (node:net:1811:`
 1. [[⭐⭐💰] https://remove-watermark.org](https://remove-watermark.org) **iPurix - 轻松去除任何水印。** 几秒钟内获得干净、专业的图片。轻松移除水印——无需 Photoshop 技能
 1. [[🚀] https://changestyleai.com](https://changestyleai.com) **Change Style AI。** 人工智能多风格肖像生成器！能够AI生成30种照片
 1. [[🚀] https://creator.nightcafe.studio](https://creator.nightcafe.studio) **NightCafe。** 用AI生成惊艳的艺术品
@@ -249,7 +258,7 @@
 1. [[⭐⭐⭐] https://klingai.kuaishou.com](https://klingai.kuaishou.com) **可灵AI。** 快手旗下的新一代AI创意生产力平台
 1. [[⭐⭐⭐] https://runwayml.com](https://runwayml.com) **Runway。** Runway提供一系列易于使用的工具和平台，利用人工智能技术创造出令人惊叹的艺术作品和创意内容。他们的技术可以用于图像生成、视频编辑、音频合成、文字生成等多个创作领域。
 1. [[⭐⭐] https://hailuoai.video](https://hailuoai.video) **Hailuo AI。** Hailuo AI Video Generator 是一款利用人工智能技术，根据文本提示自动生成视频内容的工具。它通过深度学习算法，将用户的文字描述转化为视觉图像，极大地简化了视频制作流程，提高了创作效率。该产品适用于需要快速生成视频内容的个人和企业，特别是在广告、社交媒体内容制作和电影预览等领域。
-1. [[⭐⭐] https://ttsmaker.cn](https://ttsmaker.cn) **TTSMaker马克配音。** 免费的在线文本转语音神器 `[error][-1]timeout`
+1. [[⭐⭐] https://ttsmaker.cn](https://ttsmaker.cn) **TTSMaker马克配音。** 免费的在线文本转语音神器
 1. [[⭐] https://ai.invideo.io](https://ai.invideo.io) **InVideo。** 利用invideo AI，您可以立即将任何内容或想法转化为视频。
 1. [[⭐] https://ai.jurilu.com](https://ai.jurilu.com) **巨日禄AI。** 巨日禄AI是一款全网性能卓越的故事AI绘画转视频工具，旨在让0基础小白也能轻松上手，快速实现从文案到视频的制作。该工具通过分析大量剧本数据和影视作品，为用户提供各种类型的故事情节和角色设置，帮助用户快速找到灵感，减少构思剧本的困难和犹豫。无需本地部署，快速出图，支持配音配乐，一站式解决小说、漫画推文等需求。角色固定，画风统一，提供多种风格选择。AI自动解析分镜，解析提示词，操作简单流畅，即使零基础小白也能轻松上手，做出精美的视频作品。
 1. [[⭐] https://aigc.baidu.com](https://aigc.baidu.com) **百度度加创作工具。** 百度旗下产品，打造人人可用的AI创作工具
@@ -292,7 +301,7 @@
 1. [[⭐] https://mubert.com](https://mubert.com) **Mubert。** 使用人工智能为您的视频内容、播客和应用程序生成音乐。
 1. [[⭐] https://no-lang.com](https://no-lang.com) **NoLang。** NoLang是一款基于AI技术的解释视频生成工具。它可以根据用户输入的文本或文档内容,实时生成解释性的视频。主要功能包括:1.文本到视频的实时转换;2.PDF文件等资料的自动视频化汇总;3.可持续对话形式生成视频;4.通过浏览器扩展程序随时调用使用。NoLang的优势是让复杂概念的理解变得更加简单直观,解决信息获取效率低下的问题。主要面向需要获取信息、学习新知识的用户群体,免费使用。
 1. [[⭐] https://pixverse.ai](https://pixverse.ai) **PixVerse。** PixVerse是一款创新的AI创作平台，利用强大的生成式AI释放视频创作的全部潜力，让您的内容令人惊叹和难忘。PixVerse通过智能算法和深度学习技术，可以将您的创意转化为令人惊叹的视觉效果。我们提供丰富的功能，包括生成令人惊叹的场景、特效、音乐等，以满足不同类型视频的需求。PixVerse还提供定制化的选项，使您能够根据自己的需求进行个性化定制。无论您是想制作个人视频，还是需要为商业项目创作独特的宣传片，PixVerse都是您理想的选择。
-1. [[⭐] https://senseavatar.sensetime.com](https://senseavatar.sensetime.com) **商汤如影。** 商汤日日新 SenseNova 大模型体系提供多种大模型及能力，助力各行业智能化创新，以大算力引领通用人工智能发展。 `[error][-1]timeout`
+1. [[⭐] https://senseavatar.sensetime.com](https://senseavatar.sensetime.com) **商汤如影。** 商汤日日新 SenseNova 大模型体系提供多种大模型及能力，助力各行业智能化创新，以大算力引领通用人工智能发展。
 1. [[⭐] https://shanjian.tv](https://shanjian.tv) **闪剪-AI数字人。** 闪剪是一款 AI 数字人视频生成工具，用户可以定制自己的数字人，只需输入文字即可生成口播视频。
 闪剪具备形象、声音克隆；链接成片以及直播切片等功能，手机端和网页端通用。
 1. [[⭐] https://soundraw.io](https://soundraw.io) **Soundraw。** 用AI制作免费的音乐
@@ -357,7 +366,7 @@
 ### AI 语音生成 (51)
 
 1. [[⭐⭐⭐] https://ai.wps.cn](https://ai.wps.cn) **WPS AI。** AI 设计助手，一键生成 PPT！WPS AI是由金山办公发布的具备大语言模型能力的人工智能应用，为用户提供智能文档写作、阅读理解和问答、智能人机交互的能力。
-1. [[⭐⭐] https://ttsmaker.cn](https://ttsmaker.cn) **TTSMaker马克配音。** 免费的在线文本转语音神器 `[error][-1]timeout`
+1. [[⭐⭐] https://ttsmaker.cn](https://ttsmaker.cn) **TTSMaker马克配音。** 免费的在线文本转语音神器
 1. [[⭐] https://ace-studio.timedomain.cn](https://ace-studio.timedomain.cn) **ACE Studio。** ACE Studio 是时域科技旗下的 AI 歌声合成引擎，通过毫无妥协的高表现力人声，解除演唱能力的羁绊，释放人们的音乐想象力。ACE Studio 编辑器软件提供 Windows 客户端版本与 macOS 客户端版本，编辑器 UI 界面简便易操作，您可以轻松地选择 AI 歌手、创建音轨、导入 MIDI，在钢琴卷帘上新建音符、绘制 pitch，在调参面板调整 AI 参数，通过云渲染获得高质量、高可调性的 AI 歌声合成结果。ACE 歌声合成引擎的强大性能，使得虚拟歌手可以真正进入专业音乐生产领域，服务于广大音乐创作者。
 1. [[⭐] https://app.deepbrain.io/dashboard](https://app.deepbrain.io/dashboard) **DeepBrain AI。** AI Studios提供了一个用户友好的仪表板，让用户可以轻松创建和管理AI项目。该平台可能包含多种AI工具和功能，以支持用户在图像、视频、音频等领域的创作和编辑。
 1. [[⭐] https://audionotes.ai](https://audionotes.ai) **AudioNotes.ai。** AudioNotes.ai是一款利用智能AI将您的口述文字转化为有序文本摘要的应用程序，使得记笔记、头脑风暴和内容创作等活动变得更加轻松！您只需通过语音输入，即可获得清晰、有序的文字记录。此外，AudioNotes.ai还具有智能分类和标签功能，帮助您快速组织和检索笔记。该应用程序适用于各种场景，包括会议记录、学习笔记、写作草稿等。通过AudioNotes.ai，您可以更高效地记录和整理您的想法，提升工作和学习效率。
@@ -461,7 +470,6 @@
 1. [[⭐] https://metaso.cn](https://metaso.cn) **秘塔AI搜索。** 秘塔科技旗下的一款AI搜索产品，能够大幅提升搜索效率，解决日常生活、工作学习等场景中遇到的各类搜索需求
 1. [[⭐] https://microsoftedge.microsoft.com/addons/detail/hpkbpmbgkhngdlopdpnfjelemchlmdko](https://microsoftedge.microsoft.com/addons/detail/hpkbpmbgkhngdlopdpnfjelemchlmdko) **AI课代表。** “AI课代表” 是您在B站最专业的人工智能助手 🤖 基于GPT4的“知识提问+“视频总结”+“字幕搜索” 每日刷新免费额度 解决问题，快速定位关键点，筛选视频，帮你成为人见人爱的“课代表” 无情吸赞，学霸人设，专栏大佬，最重要的是：您的声音至关重要，我们将以“3天1更”的速度持续改进！
 1. [[⭐] https://so.360.com](https://so.360.com) **360AI搜索。** 360AI搜索是由360集团推出的一款基于大模型的新一代答案引擎应用。该产品旨在为用户提供更直接、更直观的问题答案，不再只是一个普通的搜索工具，而是能够理解和处理复杂搜索查询的智能AI助手。
-1. [[⭐] https://suppr.wilddata.cn](https://suppr.wilddata.cn) **超能文献·文档翻译。** Suppr 超能文献是一个利用人工智能技术驱动的医学文献搜索引擎，旨在帮助医学研究人员快速检索和获取相关医学领域的最新研究进展和临床试验信息。它通过限定时间、类型、影响因子、作者、期刊等多重条件，提供精准的文献检索服务，极大地提高了医学研究的效率和质量。 `[error][200]<script>function a(a){function n(){for(var a={wQzOV:_0x649a("0x4"),iTyzs:function(a,n){return a+n}},n=a[_0x649a("0x5")][_0x649a("0x6")]("|"),e=0;;){switch(n[e++]){case"0":t+="EO_Bot_Ssid="`
 1. [[⭐] https://undermind.ai](https://undermind.ai) **Undermind.ai。** Undermind是一个由人工智能驱动的科研助手，旨在通过先进的语言模型，帮助研究人员快速准确地找到所需的学术论文。它由两位来自MIT的量子物理博士创立，拥有深厚的研究背景。Undermind的搜索算法模仿人类系统化的发现过程，通过阶段性地检查结果并使用语言模型做出关键决策，如识别重要信息和调整搜索策略，从而实现前所未有的准确性和全面性。
 1. [[⭐] https://www.chatplayground.ai](https://www.chatplayground.ai) **ChatPlayground AI。** ChatPlayground AI是一个集成了16+ AI应用和功能的聊天机器人平台，它允许用户通过一个订阅来访问多种AI模型。该平台的主要优点包括行业领先的AI模型、实时网络搜索、图像生成器、历史记录回顾、多语言支持以及导入自定义内容的能力。ChatPlayground AI旨在为开发者、数据科学家、学生、研究人员、内容创作者、作家和AI爱好者提供服务，帮助他们提高工作效率和创造力。
 1. [[⭐] https://www.frase.io](https://www.frase.io) **Frase。** Frase是一款内容优化工具，通过使用人工智能技术，提供智能化的SEO优化建议。它可以帮助用户分析网站内容，并提供针对关键词优化的建议，以提高网站在搜索引擎中的排名。Frase还提供语义搜索功能，可以帮助用户找到与其网站相关的问题，从而为他们提供创作内容的灵感和指导。Frase还可以分析竞争对手的网站，并提供比较和改进建议。该产品定价灵活，并根据用户的需求提供不同的套餐选择。
@@ -471,6 +479,7 @@
 1. [[⭐⭐⭐🚀] https://www.perplexity.ai](https://www.perplexity.ai) **Perplexity AI。** Perplexity AI通过信息发现和共享解锁知识的力量。
 1. [[🚀] https://www.phind.com](https://www.phind.com) **Phind。** 为开发人员而生的AI搜索引擎。中国区不可用
 1. [[🚀] https://you.com](https://you.com) **YOU。** You是一种具有对话性和持续学习能力的技术，可以增强网络搜索、写作、编码、数字艺术创作和解决复杂问题。
+1. [[❓] https://suppr.wilddata.cn](https://suppr.wilddata.cn) **超能文献·文档翻译。** Suppr 超能文献是一个利用人工智能技术驱动的医学文献搜索引擎，旨在帮助医学研究人员快速检索和获取相关医学领域的最新研究进展和临床试验信息。它通过限定时间、类型、影响因子、作者、期刊等多重条件，提供精准的文献检索服务，极大地提高了医学研究的效率和质量。 `[error][567]Unknown Status`
 
 ### AI 行业工具 (67)
 
@@ -599,7 +608,6 @@
 1. [[⭐] https://scalenut.com](https://scalenut.com) **Scalenut。** Scalenut是一个AI驱动的SEO和内容营销平台，帮助您从识别关键词集群、创建内容简介到优化内容以提高搜索排名，管理您的整个内容生命周期。
 1. [[⭐] https://smodin.io/zh-cn](https://smodin.io/zh-cn) **Smodin。** 全球数百万学生、作家和互联网工作者使用的日常应用程序。我们最受欢迎的应用程序包括文本重写器、抄袭检查器、自动引文机和多语言翻译器。
 1. [[⭐] https://studycorgi.com/free-writing-tools/chat-gpt-detector/](https://studycorgi.com/free-writing-tools/chat-gpt-detector/) **Chat GPT Detector for Essays。** ChatGPT 检测器是一个用于检查论文是否由 AI 生成的工具。它通过分析文本中每个词的可预测性来判断文本的真实性，帮助用户识别人工写作与机器生成的文本。该工具的主要优点在于免费、准确、适合学生使用，提供详细的文本分析。
-1. [[⭐] https://suppr.wilddata.cn](https://suppr.wilddata.cn) **超能文献·文档翻译。** Suppr 超能文献是一个利用人工智能技术驱动的医学文献搜索引擎，旨在帮助医学研究人员快速检索和获取相关医学领域的最新研究进展和临床试验信息。它通过限定时间、类型、影响因子、作者、期刊等多重条件，提供精准的文献检索服务，极大地提高了医学研究的效率和质量。 `[error][200]<script>function a(a){function n(){for(var a={wQzOV:_0x649a("0x4"),iTyzs:function(a,n){return a+n}},n=a[_0x649a("0x5")][_0x649a("0x6")]("|"),e=0;;){switch(n[e++]){case"0":t+="EO_Bot_Ssid="`
 1. [[⭐] https://tingwu.aliyun.com](https://tingwu.aliyun.com) **通义听悟。** 阿里推出的会议转录工具
 1. [[⭐] https://tldrthis.com](https://tldrthis.com) **TLDR this。** TLDR This是一款免费的在线文本摘要工具，利用先进的人工智能技术将长篇文章、文档、论文等压缩成关键摘要段落。它能帮助用户从信息过载中解放出来。
 1. [[⭐] https://undetectable.ai](https://undetectable.ai) **Undetectable.ai。** 逍遥AI是一款AI写作工具，旨在将被AI检测器标记的内容转化为与人类写作无法区分的优质文本。我们的基于AI的解决方案保证了不可区分的结果，让您拥有与品牌声音一致、流畅的文本，与您的受众产生共鸣。立即信任我们，提升您的内容水平！
@@ -649,6 +657,7 @@
 1. [[🚀] https://quillbot.com](https://quillbot.com) **QuillBot。** QuillBot一款写作改写工具，能够帮助您让写作更好、更快、更聪明。我们的改写工具是免费且易于使用的，只需点击一下按钮，即可进行改写。
 1. [[🚀] https://writesonic.com](https://writesonic.com) **Writesonic。** Writesonic可以为博客、广告、电子邮件和网站快速生成已优化的免费原创内容。
 1. [[🚀] https://www.copy.ai](https://www.copy.ai) **Copy AI。** 人工智能营销文案和内容创作工具，帮助各行各业的撰稿人、营销人员和企业快速高效地创建高质量的内容。
+1. [[❓] https://suppr.wilddata.cn](https://suppr.wilddata.cn) **超能文献·文档翻译。** Suppr 超能文献是一个利用人工智能技术驱动的医学文献搜索引擎，旨在帮助医学研究人员快速检索和获取相关医学领域的最新研究进展和临床试验信息。它通过限定时间、类型、影响因子、作者、期刊等多重条件，提供精准的文献检索服务，极大地提高了医学研究的效率和质量。 `[error][567]Unknown Status`
 
 ### AI 思维导图 (12)
 
@@ -681,7 +690,6 @@
 1. [[⭐] https://jam.dev/jamgpt](https://jam.dev/jamgpt) **JamGPT。** AI Debug调试助手，快速找到解决方案
 1. [[⭐] https://saga.so/ai](https://saga.so/ai) **Saga AI。** Saga AI是一款基于人工智能的助手，可以在您的工作空间中帮助您完成草稿内容、生成创意思路、修复语法错误，并一键翻译成20多种语言。它可以帮助您节省时间，专注于重要事项。
 1. [[⭐] https://sight.youdao.com](https://sight.youdao.com) **网易见外。** 网易自营的智能转写翻译服务。
-1. [[⭐] https://suppr.wilddata.cn](https://suppr.wilddata.cn) **超能文献·文档翻译。** Suppr 超能文献是一个利用人工智能技术驱动的医学文献搜索引擎，旨在帮助医学研究人员快速检索和获取相关医学领域的最新研究进展和临床试验信息。它通过限定时间、类型、影响因子、作者、期刊等多重条件，提供精准的文献检索服务，极大地提高了医学研究的效率和质量。 `[error][200]<script>function a(a){function n(){for(var a={wQzOV:_0x649a("0x4"),iTyzs:function(a,n){return a+n}},n=a[_0x649a("0x5")][_0x649a("0x6")]("|"),e=0;;){switch(n[e++]){case"0":t+="EO_Bot_Ssid="`
 1. [[⭐] https://translate.alibaba.com](https://translate.alibaba.com) **阿里翻译。** 阿里巴巴达摩院推出的多领域多语种的在线机器翻译
 1. [[⭐] https://transmart.qq.com/zh-CN/index](https://transmart.qq.com/zh-CN/index) **TranSmart。** 腾讯AI Lab研发的AI辅助翻译产品，满足用户快速翻译的需求
 1. [[⭐] https://work.duiopen.com](https://work.duiopen.com) **麦耳会记。** 麦耳会记是一款集实时语音转写、实时翻译和 AI 辅助写作功能为一体的 AI 办公助手。它可以用于办公会议、学生网课、客户访谈录音等场景。软件支持边录音、边转写，录音结束后，音频、文本实时同步至 PC 端、手机端。采用云端存储资料的方式，无论是办公、地铁，还是旅游途中，都可以随时随地查看文档或音频。麦耳会记还提供实时字幕同传功能，帮助听力受损人士更好地参与会议。
@@ -690,6 +698,7 @@
 1. [[⭐] https://www.lingvanex.com](https://www.lingvanex.com) **Lingvanex。** Lingvanex是一款多语言翻译工具，可以翻译文本、语音、图片和文件。使用神经机器翻译技术，提高您的工作效率。
 1. [[⭐] https://www.machinetranslation.com](https://www.machinetranslation.com) **MachineTranslation。** 机器翻译提供快速可靠的机器翻译后编辑（MTPE）服务。我们提供ISO 18587:2017认证的机器翻译服务，帮助您在本地化过程中利用机器翻译。
 1. [[🚀] https://translate.google.com](https://translate.google.com) **Google翻译。** Google免费提供上100种语言智能即时翻译工具
+1. [[❓] https://suppr.wilddata.cn](https://suppr.wilddata.cn) **超能文献·文档翻译。** Suppr 超能文献是一个利用人工智能技术驱动的医学文献搜索引擎，旨在帮助医学研究人员快速检索和获取相关医学领域的最新研究进展和临床试验信息。它通过限定时间、类型、影响因子、作者、期刊等多重条件，提供精准的文献检索服务，极大地提高了医学研究的效率和质量。 `[error][567]Unknown Status`
 
 ### AI 网站生成 (7)
 
@@ -876,7 +885,7 @@ Memkey的定价信息请查阅官方网站。该产品定位于提升团队的�
 
 ### AI 编程开发 (72)
 
-1. [[⭐⭐⭐] https://ampcode.com](https://ampcode.com) **AmpCode。** 来自 Sourcegraph 的 AI 编程智能体，支持终端和编辑器使用。前沿编程智能体：你不是在用`一个模型`，而是在用`最适合的模型组合`
+1. [[⭐⭐⭐] https://ampcode.com](https://ampcode.com) **AmpCode。** 来自 Sourcegraph 的 AI 编程智能体，支持终端和编辑器使用。前沿编程智能体：你不是在用`一个模型`，而是在用`最适合的模型组合` `[error][-1]Parse Error: Header overflow`
 1. [[⭐⭐⭐] https://bito.ai](https://bito.ai) **Bito AI。** 让AI编码代理系统级地理解你的代码库，这样他们就可以推断影响，而不仅仅是生成代码。由 Bito 的 AI 架构师提供技术支持。
 1. [[⭐⭐⭐] https://block.github.io/goose/](https://block.github.io/goose/) **Goose。** 一款开源的 AI Agent 工具，支持在本地或桌面环境运行，也提供 CLI 形式。它支持多种模型接入，结合 MCP 协议连接外部工具与 API，自动化执行工程任务，如代码生成、调试、测试与部署。
 1. [[⭐⭐⭐] https://catpaw.meituan.com](https://catpaw.meituan.com) **Meituan CatPaw。** 公测阶段免费使用，超额使用后可申请继续增加！Meituan CatPaw是美团推出的一款智能AI编程Agent，以IDE形态集成，提供高效的代码补全、代码生成等功能，帮助开发者提升编码效率，加速项目交付。
@@ -917,7 +926,10 @@ Memkey的定价信息请查阅官方网站。该产品定位于提升团队的�
 1. [[⭐] https://browser-use.com](https://browser-use.com) **Browser Use。** Browser Use是一个致力于使网站对AI代理可访问的平台，通过提取所有交互元素，让AI代理能够专注于其核心任务。该产品结合了先进的AI能力和强大的浏览器自动化技术，支持多标签管理、元素跟踪、自定义动作等，兼容所有LangChain LLMs，包括GPT-4、Claude 3和Llama 2。Browser Use以其高精度的Web代理性能和易用性，成为AI网络自动化领域的佼佼者。
 1. [[⭐] https://charisma.ai](https://charisma.ai) **Charisma。** 轻松连接到 Unreal Engine、Unity、移动设备和 metaverses
 1. [[⭐] https://code.fittentech.com](https://code.fittentech.com) **Fitten Code。** Fitten Code是一个GPT驱动的代码生成和完成工具，支持多种语言：Python、Javascript、Typescript、Java等。它能够自动为您的代码补充缺失的部分，节省您宝贵的开发时间。基于AI大模型对代码进行语义级翻译，支持多种编程语言互译。同时，它能够根据您的代码自动生成相关注释，为您的代码提供清晰易懂的解释和文档。除此之外，它还拥有智能bug查找、解释代码、自动生成单元测试的功能，以及根据代码自动产生相应的测试用例等功能。
-1. [[⭐] https://codegeex.cn](https://codegeex.cn) **CodeGeeX。** CodeGeeX是智谱推出的一个基于AI大模型的编程辅助工具，可以实现自动代码生成、代码翻译、自动编写注释等功能，支持20多种编程语言。
+1. [[⭐] https://codegeex.cn](https://codegeex.cn) **CodeGeeX。** CodeGeeX是智谱推出的一个基于AI大模型的编程辅助工具，可以实现自动代码生成、代码翻译、自动编写注释等功能，支持20多种编程语言。 `[error][-1]AggregateError [ETIMEDOUT]: 
+    at internalConnectMultiple (node:net:1194:18)
+    at internalConnectMultiple (node:net:1270:5)
+    at Timeout.internalConnectMultipleTimeout (node:net:1811:`
 1. [[⭐] https://fleak.ai](https://fleak.ai) **Fleak。** Fleak是一个面向数据团队的低代码无服务器API构建器，它不需要基础设施，可以立即将API端点嵌入到现有的现代AI和数据技术栈中。它通过简化数据组件的集成，创建统一的API，实现无缝扩展，帮助简化工作流，专注于从数据中获取洞察，而不是管理数据操作。
 1. [[⭐] https://fronty.com](https://fronty.com) **Fronty。** 支持图像到 HTML CSS 转换器
 1. [[⭐] https://hocoos.com](https://hocoos.com) **Hocoos。** 无代码AI智能在线快速创建网站
@@ -998,7 +1010,6 @@ Memkey的定价信息请查阅官方网站。该产品定位于提升团队的�
 1. [[⭐] https://sheetai.app/�](https://sheetai.app/�) **SheetAI.app。** SheetAI是一个Google Sheets的插件，帮助您在电子表格中释放AI的力量。它提供了一套强大的基于AI的功能，可以帮助您自动化任务和生成洞察力。它包括SHEETAI_BRAIN来简化文案撰写，SHEETAI_LIST来生成多个答案，SHEETAI_FILL来填充数据等功能。
 1. [[⭐] https://slidesgo.com/ai-presentations](https://slidesgo.com/ai-presentations) **SlidesGo。** Slidesgo最新推出了AI演示制作工具，它能在几次点击之内，为你制作出符合你需求的精美幻灯片。而且，它完全免费！
 1. [[⭐] https://smartread.cc](https://smartread.cc) **司马阅AI文档。** 司马阅(SmartRead)，是一款AI文档阅读分析工具，通过聊天互动形式，精准地从复杂文档提取并分析信息，极大节省文档阅读和检索时间及便捷获取创新灵感，高效应用于工作、学习场景，如读行业市场报告、产品手册、法律文档、论文文献、电子书等。
-1. [[⭐] https://suppr.wilddata.cn](https://suppr.wilddata.cn) **超能文献·文档翻译。** Suppr 超能文献是一个利用人工智能技术驱动的医学文献搜索引擎，旨在帮助医学研究人员快速检索和获取相关医学领域的最新研究进展和临床试验信息。它通过限定时间、类型、影响因子、作者、期刊等多重条件，提供精准的文献检索服务，极大地提高了医学研究的效率和质量。 `[error][200]<script>function a(a){function n(){for(var a={wQzOV:_0x649a("0x4"),iTyzs:function(a,n){return a+n}},n=a[_0x649a("0x5")][_0x649a("0x6")]("|"),e=0;;){switch(n[e++]){case"0":t+="EO_Bot_Ssid="`
 1. [[⭐] https://timelyapp.com](https://timelyapp.com) **Timely。** 一款AI时间管理工具！可以帮助你更有效地管理时间
 1. [[⭐] https://wensi.sodabot.cn](https://wensi.sodabot.cn) **文思助手。** 文思助手是一款AI写作智能体，能够一键生成专业报告、工作总结、科研论文等文档。它利用先进的人工智能技术，为用户节省时间，提高工作效率。该产品由厦门苏哒智能科技有限公司开发，拥有强大的功能和广泛的应用场景。
 1. [[⭐] https://whimsical.com](https://whimsical.com) **Whimsical。** Whimsical是一个集图表、白板等多种功能于一体的视觉协作平台。用户可以使用Whimsical创建流程图、线框图、思维导图和文档，快速将想法变为现实。它可以帮助团队成员更好地协作，从而更快地构建出更好的产品。Whimsical还可以与Jira、GitHub、Notion、Figma和Slack等常用工具集成，提高工作效率。
@@ -1032,6 +1043,7 @@ Memkey的定价信息请查阅官方网站。该产品定位于提升团队的�
 1. [[🚀] https://chatdoc.com](https://chatdoc.com) **chatDOC。** 通过与文档对话,以引用来源的方式获得即时答案。
 1. [[🚀] https://chatpdf.com](https://chatpdf.com) **chatPDF。** 加入数百万学生、研究人员和专业人士的行列，通过 AI 即时回答问题。
 1. [[🚀] https://gamma.app](https://gamma.app) **Gamma。** Gamma App是一种新型的内容呈现方式，通过AI技术帮助用户创造美观、引人入胜的演示文稿和网页，无需繁琐的格式和设计工作。Gamma App提供一键模板和可视化编辑功能，用户可以快速生成演示文稿、文档和网页，并进行个性化定制。Gamma App支持多种功能，包括生成精美的设计、提供多种样式选择、实时呈现、嵌入各种媒体内容等。用户可以在任何设备上浏览和分享创作的内容。Gamma App适用于各种场景，例如企业演示、教育培训、个人创作等。免费试用。
+1. [[❓] https://suppr.wilddata.cn](https://suppr.wilddata.cn) **超能文献·文档翻译。** Suppr 超能文献是一个利用人工智能技术驱动的医学文献搜索引擎，旨在帮助医学研究人员快速检索和获取相关医学领域的最新研究进展和临床试验信息。它通过限定时间、类型、影响因子、作者、期刊等多重条件，提供精准的文献检索服务，极大地提高了医学研究的效率和质量。 `[error][567]Unknown Status`
 
 ### AI 学习资源 (82)
 
@@ -1083,7 +1095,6 @@ Memkey的定价信息请查阅官方网站。该产品定位于提升团队的�
 1. [[⭐] https://sheetai.app/�](https://sheetai.app/�) **SheetAI.app。** SheetAI是一个Google Sheets的插件，帮助您在电子表格中释放AI的力量。它提供了一套强大的基于AI的功能，可以帮助您自动化任务和生成洞察力。它包括SHEETAI_BRAIN来简化文案撰写，SHEETAI_LIST来生成多个答案，SHEETAI_FILL来填充数据等功能。
 1. [[⭐] https://slidesgo.com/ai-presentations](https://slidesgo.com/ai-presentations) **SlidesGo。** Slidesgo最新推出了AI演示制作工具，它能在几次点击之内，为你制作出符合你需求的精美幻灯片。而且，它完全免费！
 1. [[⭐] https://smartread.cc](https://smartread.cc) **司马阅AI文档。** 司马阅(SmartRead)，是一款AI文档阅读分析工具，通过聊天互动形式，精准地从复杂文档提取并分析信息，极大节省文档阅读和检索时间及便捷获取创新灵感，高效应用于工作、学习场景，如读行业市场报告、产品手册、法律文档、论文文献、电子书等。
-1. [[⭐] https://suppr.wilddata.cn](https://suppr.wilddata.cn) **超能文献·文档翻译。** Suppr 超能文献是一个利用人工智能技术驱动的医学文献搜索引擎，旨在帮助医学研究人员快速检索和获取相关医学领域的最新研究进展和临床试验信息。它通过限定时间、类型、影响因子、作者、期刊等多重条件，提供精准的文献检索服务，极大地提高了医学研究的效率和质量。 `[error][200]<script>function a(a){function n(){for(var a={wQzOV:_0x649a("0x4"),iTyzs:function(a,n){return a+n}},n=a[_0x649a("0x5")][_0x649a("0x6")]("|"),e=0;;){switch(n[e++]){case"0":t+="EO_Bot_Ssid="`
 1. [[⭐] https://timelyapp.com](https://timelyapp.com) **Timely。** 一款AI时间管理工具！可以帮助你更有效地管理时间
 1. [[⭐] https://wensi.sodabot.cn](https://wensi.sodabot.cn) **文思助手。** 文思助手是一款AI写作智能体，能够一键生成专业报告、工作总结、科研论文等文档。它利用先进的人工智能技术，为用户节省时间，提高工作效率。该产品由厦门苏哒智能科技有限公司开发，拥有强大的功能和广泛的应用场景。
 1. [[⭐] https://whimsical.com](https://whimsical.com) **Whimsical。** Whimsical是一个集图表、白板等多种功能于一体的视觉协作平台。用户可以使用Whimsical创建流程图、线框图、思维导图和文档，快速将想法变为现实。它可以帮助团队成员更好地协作，从而更快地构建出更好的产品。Whimsical还可以与Jira、GitHub、Notion、Figma和Slack等常用工具集成，提高工作效率。
@@ -1117,6 +1128,7 @@ Memkey的定价信息请查阅官方网站。该产品定位于提升团队的�
 1. [[🚀] https://chatdoc.com](https://chatdoc.com) **chatDOC。** 通过与文档对话,以引用来源的方式获得即时答案。
 1. [[🚀] https://chatpdf.com](https://chatpdf.com) **chatPDF。** 加入数百万学生、研究人员和专业人士的行列，通过 AI 即时回答问题。
 1. [[🚀] https://gamma.app](https://gamma.app) **Gamma。** Gamma App是一种新型的内容呈现方式，通过AI技术帮助用户创造美观、引人入胜的演示文稿和网页，无需繁琐的格式和设计工作。Gamma App提供一键模板和可视化编辑功能，用户可以快速生成演示文稿、文档和网页，并进行个性化定制。Gamma App支持多种功能，包括生成精美的设计、提供多种样式选择、实时呈现、嵌入各种媒体内容等。用户可以在任何设备上浏览和分享创作的内容。Gamma App适用于各种场景，例如企业演示、教育培训、个人创作等。免费试用。
+1. [[❓] https://suppr.wilddata.cn](https://suppr.wilddata.cn) **超能文献·文档翻译。** Suppr 超能文献是一个利用人工智能技术驱动的医学文献搜索引擎，旨在帮助医学研究人员快速检索和获取相关医学领域的最新研究进展和临床试验信息。它通过限定时间、类型、影响因子、作者、期刊等多重条件，提供精准的文献检索服务，极大地提高了医学研究的效率和质量。 `[error][567]Unknown Status`
 
 ### AI 聊天对话 (99)
 
@@ -1230,7 +1242,10 @@ Memkey的定价信息请查阅官方网站。该产品定位于提升团队的�
 1. [[⭐⭐⭐] https://www.doubao.com/chat/](https://www.doubao.com/chat/) **豆包Chat。** 基于字节跳动研发的云雀大语言模型的Chat应用
 1. [[⭐⭐⭐] https://www.midjourney.com](https://www.midjourney.com) **Midjourney。** Midjourney 是目前AI绘图最强大的存在
 1. [[⭐⭐⭐] https://www.tiangong.cn](https://www.tiangong.cn) **天工Agent版。** 天工Skywork是一款具备超强DeepResearch能力的全新AI Office智能体，通过3个专家agent和1个通用agent，让AI深度研究，一键生成AI文档、AI PPT、AI表格，高效应对各类办公、学习场景；也支持网页html、图像、视频、有声书、绘本等多种形式的创意内容创作，激发无限灵感。天工Skywork融合先进的多模态理解与深度检索分析技术，一问即得科研级、专业级、咨询级的高质量结果，帮助你摆脱繁琐事务，显著提升效率。无论你是职场白领、科研人员、大学生、研究生，还是自媒体KOL，天工Skywork都将是你值得信赖的智能伙伴，助你专注思考、释放创造力。
-1. [[⭐⭐] https://d.design](https://d.design) **阿里堆友。** 堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。
+1. [[⭐⭐] https://d.design](https://d.design) **阿里堆友。** 堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。 `[error][-1]AggregateError [ETIMEDOUT]: 
+    at internalConnectMultiple (node:net:1194:18)
+    at internalConnectMultiple (node:net:1270:5)
+    at Timeout.internalConnectMultipleTimeout (node:net:1811:`
 1. [[⭐⭐] https://image3d.io](https://image3d.io) **Image3D。** AI 图片转 3D 模型工具，支持从单张图片生成 3D 资产，并导出 GLB、OBJ、STL、PLY 等格式。
 1. [[⭐⭐] https://www.wujieai.com](https://www.wujieai.com) **无界AI。** 无界AI，集prompt搜索、AI图库、AI创作、AI广场、词/图等为一体。提供一站式AI搜索-创作-交流-分享服务。
 1. [[⭐] https://302.ai](https://302.ai) **302.AI。** 302.AI是一个汇集了全球顶级AI品牌的在线平台，提供无月费，按需付费的服务模式。它允许用户根据需求选择不同的AI服务，无需支付固定的月费，从而降低使用门槛，提高灵活性。平台可能涵盖了多种AI技术，如图像识别、自然语言处理等，满足不同用户的需求。
@@ -1364,12 +1379,18 @@ Memkey的定价信息请查阅官方网站。该产品定位于提升团队的�
 1. [[⭐] https://www.upscale.media/zh](https://www.upscale.media/zh) **Upscale media。** AI图片放大增强工具使用先进的人工智能技术，可将图像放大至2倍或4倍，同时保留纹理与细节。提供超分辨率处理，让您的图像焕发新生。我们有免费使用的选项，也提供不同套餐供个人和企业用户选择。欢迎访问官方网站了解更多信息。
 1. [[⭐] https://www.upscayl.org](https://www.upscayl.org) **Upscayl。** 模糊图片秒变超清！开源免费 AI 图片无损放大工具
 1. [[⭐] https://www.watermarkremover.io](https://www.watermarkremover.io) **WatermarkRemover.io。** 水印去除器是一款使用AI技术免费去除图片水印的工具。它可以帮助用户轻松去除图片中的透明水印，无需任何图像编辑技能。
-1. [[⭐] https://www.whee.com](https://www.whee.com) **美图WHEE。** WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。
+1. [[⭐] https://www.whee.com](https://www.whee.com) **美图WHEE。** WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。 `[error][-1]AggregateError [ETIMEDOUT]: 
+    at internalConnectMultiple (node:net:1194:18)
+    at internalConnectMultiple (node:net:1270:5)
+    at Timeout.internalConnectMultipleTimeout (node:net:1811:`
 1. [[⭐] https://www.x-design.com](https://www.x-design.com) **美图 AI PPT。** 美图设计室是一款由中国互联网公司美图公司开发的图像处理、照片编辑和设计软件。
 1. [[⭐] https://www.youchuan.com](https://www.youchuan.com) **悠船。** 悠船是Midjourney国内中文版本人工智能图像生成桌面客户端软件。它可以通过文字描述来生成图像,支持团队协作和高级控制,提供多种定价方案。主要功能包括文生图、协作创作、控制面板等。适合创意工作者、设计师、艺术家等群体使用,可以提高创意效率,激发灵感。
 1. [[⭐] https://yige.baidu.com](https://yige.baidu.com) **文心一格。** 百度旗下AI艺术和创意辅助平台
 1. [[⭐] https://youyan.xyz/platform/home/prime](https://youyan.xyz/platform/home/prime) **有言。** 一站式AI视频创作，1200+免费3D数字人
-1. [[⭐] https://yunxiu.meitu.com/home](https://yunxiu.meitu.com/home) **美图云修。** 商业级AI影像处理工具
+1. [[⭐] https://yunxiu.meitu.com/home](https://yunxiu.meitu.com/home) **美图云修。** 商业级AI影像处理工具 `[error][-1]AggregateError [ETIMEDOUT]: 
+    at internalConnectMultiple (node:net:1194:18)
+    at internalConnectMultiple (node:net:1270:5)
+    at Timeout.internalConnectMultipleTimeout (node:net:1811:`
 1. [[⭐] https://zenvideo.qq.com](https://zenvideo.qq.com) **腾讯智影。** 腾讯出品的融合多种AIGC能力进行智能视频创作的一体化工具。
 1. [[⭐⭐⭐🚀] https://pika.art](https://pika.art) **Pika。** Pika致力于用AI让每个人都能成为自己故事的导演，并激发我们每个人的创造力。
 1. [[🚀] https://changestyleai.com](https://changestyleai.com) **Change Style AI。** 人工智能多风格肖像生成器！能够AI生成30种照片
