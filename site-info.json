@@ -645,7 +645,7 @@
         "CLI",
         "IDE"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]Parse Error: Header overflow"
     },
     "https://answerai.pro": {
@@ -1597,7 +1597,7 @@
       "type": [
         "AI 行业工具"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]getaddrinfo EAI_AGAIN chatlify.me"
     },
     "https://chatmind.tech/editor": {
@@ -1965,7 +1965,9 @@
         "AI 提示词",
         "AI 国外工具",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://copaw.agentscope.io": {
       "title": "CoPaw",
@@ -4744,7 +4746,7 @@
         "团队协作",
         "桌面客户端"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][404]Not Found"
     },
     "https://novamss.com": {
@@ -5823,9 +5825,7 @@
       "star": 2,
       "desc": "几秒钟内获得干净、专业的图片。轻松移除水印——无需 Photoshop 技能",
       "title": "iPurix - 轻松去除任何水印",
-      "needPay": 1,
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "needPay": 1
     },
     "https://removewatermark.ai": {
       "title": "WatermarkRemoverAI",
@@ -6390,8 +6390,8 @@
         "AI 翻译工具",
         "AI 写作助手"
       ],
-      "needVerify": 5,
-      "errmsg": "[error][567]Unknown Status"
+      "needVerify": 6,
+      "errmsg": "[error][200]<script>function a(a){function n(){for(var a={wQzOV:_0x649a(\"0x4\"),iTyzs:function(a,n){return a+n}},n=a[_0x649a(\"0x5\")][_0x649a(\"0x6\")](\"|\"),e=0;;){switch(n[e++]){case\"0\":t+=\"EO_Bot_Ssid=\""
     },
     "https://synthesys.io/x": {
       "title": "Synthesys X",
@@ -6626,7 +6626,9 @@
       ],
       "star": 2,
       "title": "TTSMaker马克配音",
-      "desc": "免费的在线文本转语音神器"
+      "desc": "免费的在线文本转语音神器",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://tusiart.com": {
       "type": [
@@ -6652,7 +6654,9 @@
         "AI 国外工具"
       ],
       "title": "uberduck",
-      "desc": "开源的AI语音生成平台"
+      "desc": "开源的AI语音生成平台",
+      "needVerify": 1,
+      "errmsg": "[error][402]Payment Required"
     },
     "https://uizard.io/autodesigner": {
       "type": [
@@ -7219,9 +7223,7 @@
       "desc": "造字神器！ 仅需8个汉字即可生成一套6K+中文字库",
       "type": [
         "AI 图像处理"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][500]Internal Server Error"
+      ]
     },
     "https://www.aichatting.net": {
       "type": [
@@ -8040,9 +8042,7 @@
       "desc": "万兴科技旗下的亿图脑图MindMaster软件是一款多平台思维导图软件，可用于Windows，Mac和Linux等桌面环境，也可以在线使用或在苹果，安卓等移动端上使用。",
       "type": [
         "AI 思维导图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.elegantresume.pro": {
       "title": "优雅简历",
@@ -10274,7 +10274,9 @@
         "AI 图像处理"
       ],
       "title": "美图WHEE",
-      "desc": "WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。"
+      "desc": "WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.wix.com/logo/maker": {
       "title": "Wix Logo Maker",
