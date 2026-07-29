@@ -645,7 +645,7 @@
         "CLI",
         "IDE"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]Parse Error: Header overflow"
     },
     "https://answerai.pro": {
@@ -1597,7 +1597,7 @@
       "type": [
         "AI 行业工具"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]getaddrinfo EAI_AGAIN chatlify.me"
     },
     "https://chatmind.tech/editor": {
@@ -1965,9 +1965,7 @@
         "AI 提示词",
         "AI 国外工具",
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://copaw.agentscope.io": {
       "title": "CoPaw",
@@ -2650,7 +2648,9 @@
       ],
       "type": [
         "AI 翻译工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]read ECONNRESET"
     },
     "https://formulabot.com": {
       "title": "Excel Formula Bot",
@@ -4746,7 +4746,7 @@
         "团队协作",
         "桌面客户端"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][404]Not Found"
     },
     "https://novamss.com": {
@@ -6390,8 +6390,9 @@
         "AI 翻译工具",
         "AI 写作助手"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][200]<script>function a(a){function n(){for(var a={wQzOV:_0x649a(\"0x4\"),iTyzs:function(a,n){return a+n}},n=a[_0x649a(\"0x5\")][_0x649a(\"0x6\")](\"|\"),e=0;;){switch(n[e++]){case\"0\":t+=\"EO_Bot_Ssid=\""
+      "needVerify": 7,
+      "errmsg": "[error][200]<script>function a(a){function n(){for(var a={wQzOV:_0x649a(\"0x4\"),iTyzs:function(a,n){return a+n}},n=a[_0x649a(\"0x5\")][_0x649a(\"0x6\")](\"|\"),e=0;;){switch(n[e++]){case\"0\":t+=\"EO_Bot_Ssid=\"",
+      "hide": 1
     },
     "https://synthesys.io/x": {
       "title": "Synthesys X",
@@ -6627,7 +6628,7 @@
       "star": 2,
       "title": "TTSMaker马克配音",
       "desc": "免费的在线文本转语音神器",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://tusiart.com": {
@@ -6655,7 +6656,7 @@
       ],
       "title": "uberduck",
       "desc": "开源的AI语音生成平台",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][402]Payment Required"
     },
     "https://uizard.io/autodesigner": {
@@ -10274,9 +10275,7 @@
         "AI 图像处理"
       ],
       "title": "美图WHEE",
-      "desc": "WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。"
     },
     "https://www.wix.com/logo/maker": {
       "title": "Wix Logo Maker",
