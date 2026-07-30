@@ -645,7 +645,7 @@
         "CLI",
         "IDE"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]Parse Error: Header overflow"
     },
     "https://answerai.pro": {
@@ -1597,7 +1597,7 @@
       "type": [
         "AI 行业工具"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]getaddrinfo EAI_AGAIN chatlify.me"
     },
     "https://chatmind.tech/editor": {
@@ -1965,7 +1965,9 @@
         "AI 提示词",
         "AI 国外工具",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:40.65.59.114:1785445103.849\"></meta></head></html>"
     },
     "https://copaw.agentscope.io": {
       "title": "CoPaw",
@@ -2648,9 +2650,7 @@
       ],
       "type": [
         "AI 翻译工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]read ECONNRESET"
+      ]
     },
     "https://formulabot.com": {
       "title": "Excel Formula Bot",
@@ -4730,25 +4730,6 @@
         "research"
       ]
     },
-    "https://noty.ai": {
-      "type": [
-        "AI 文档办公",
-        "AI 学习资源",
-        "AI 国外工具",
-        "AI 写作助手"
-      ],
-      "title": "Noty AI",
-      "desc": "ChatGPT驱动的AI会议转录工具",
-      "tags": [
-        "会议转录",
-        "笔记记录",
-        "后续任务",
-        "团队协作",
-        "桌面客户端"
-      ],
-      "needVerify": 6,
-      "errmsg": "[error][404]Not Found"
-    },
     "https://novamss.com": {
       "title": "NovaMSS",
       "intro": "基于AI的新一代音乐源分离工具，一键提取伴奏、人声等。",
@@ -6627,9 +6608,7 @@
       ],
       "star": 2,
       "title": "TTSMaker马克配音",
-      "desc": "免费的在线文本转语音神器",
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
+      "desc": "免费的在线文本转语音神器"
     },
     "https://tusiart.com": {
       "type": [
@@ -6656,7 +6635,7 @@
       ],
       "title": "uberduck",
       "desc": "开源的AI语音生成平台",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][402]Payment Required"
     },
     "https://uizard.io/autodesigner": {
@@ -6749,7 +6728,9 @@
         "AI 视频生成"
       ],
       "title": "Virbo",
-      "desc": "Virbo是一款万兴科技旗下的数字人营销视频创作神器。"
+      "desc": "Virbo是一款万兴科技旗下的数字人营销视频创作神器。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://vizard.ai": {
       "type": [
