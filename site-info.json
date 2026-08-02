@@ -6635,7 +6635,7 @@
       ],
       "title": "uberduck",
       "desc": "开源的AI语音生成平台",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][402]Payment Required"
     },
     "https://uizard.io/autodesigner": {
@@ -8348,7 +8348,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.hanlinmiaobi.com"
     },
     "https://www.heyfriday.cn/home": {
@@ -9859,9 +9859,7 @@
         "agent",
         "cowork",
         "智能体"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1194:18)\n    at internalConnectMultiple (node:net:1270:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1811:"
+      ]
     },
     "https://www.storynest.ai": {
       "title": "Storynest.ai",
@@ -10374,9 +10372,7 @@
       ],
       "type": [
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.xingyeai.com": {
       "type": [
