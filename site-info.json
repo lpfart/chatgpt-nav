@@ -934,9 +934,7 @@
         "AI 视频生成"
       ],
       "title": "Audo Studio",
-      "desc": "听起来很棒！AI一键清除音频背景杂音",
-      "needVerify": 1,
-      "errmsg": "[error][-1]read ECONNRESET"
+      "desc": "听起来很棒！AI一键清除音频背景杂音"
     },
     "https://autoglm.zhipuai.cn": {
       "title": "AutoGLM",
@@ -1970,8 +1968,8 @@
         "AI 国外工具",
         "AI 写作助手"
       ],
-      "needVerify": 1,
-      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:20.168.109.199:1785790618.283\"></meta></head></html>"
+      "needVerify": 2,
+      "errmsg": "[error][-1]timeout"
     },
     "https://copaw.agentscope.io": {
       "title": "CoPaw",
@@ -2654,9 +2652,7 @@
       ],
       "type": [
         "AI 翻译工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]read ECONNRESET"
+      ]
     },
     "https://formulabot.com": {
       "title": "Excel Formula Bot",
@@ -3372,7 +3368,9 @@
         "AI 图像处理"
       ],
       "title": "PLUG AI",
-      "desc": "AI辅助包装设计！并对包装方案生成分析评估"
+      "desc": "AI辅助包装设计！并对包装方案生成分析评估",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://huemint.com/brand-intersection": {
       "type": [
@@ -6870,7 +6868,9 @@
       ],
       "type": [
         "AI 网站生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND webassistants.ai"
     },
     "https://webflow.com": {
       "type": [
@@ -8029,7 +8029,9 @@
       "desc": "万兴科技旗下的亿图脑图MindMaster软件是一款多平台思维导图软件，可用于Windows，Mac和Linux等桌面环境，也可以在线使用或在苹果，安卓等移动端上使用。",
       "type": [
         "AI 思维导图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.elegantresume.pro": {
       "title": "优雅简历",
@@ -8355,7 +8357,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.hanlinmiaobi.com"
     },
     "https://www.heyfriday.cn/home": {
@@ -9208,7 +9210,9 @@
         "AI 提示词"
       ],
       "title": "Ordinary Prompts",
-      "desc": "有趣ChatGPT提示词"
+      "desc": "有趣ChatGPT提示词",
+      "needVerify": 1,
+      "errmsg": "[error][-1]socket hang up"
     },
     "https://www.overleaf.com": {
       "title": "Overleaf",
@@ -9689,7 +9693,9 @@
       "desc": "国内团队开发的图片模型分享社区。",
       "type": [
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.semrush.com": {
       "title": "Semrush",
