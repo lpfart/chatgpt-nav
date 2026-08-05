@@ -333,7 +333,9 @@
       "desc": "360旗下的AI聊天助手",
       "type": [
         "AI 聊天对话"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://ai.baidu.com/unit/home": {
       "title": "百度客悦ONE·智能客服",
@@ -1968,8 +1970,8 @@
         "AI 国外工具",
         "AI 写作助手"
       ],
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 3,
+      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:132.196.82.3:1785963564.105\"></meta></head></html>"
     },
     "https://copaw.agentscope.io": {
       "title": "CoPaw",
@@ -3368,9 +3370,7 @@
         "AI 图像处理"
       ],
       "title": "PLUG AI",
-      "desc": "AI辅助包装设计！并对包装方案生成分析评估",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "AI辅助包装设计！并对包装方案生成分析评估"
     },
     "https://huemint.com/brand-intersection": {
       "type": [
@@ -6057,7 +6057,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://shangchenzhou.com/projects/CodeFormer/": {
       "title": "CodeFormer",
@@ -6869,7 +6871,7 @@
       "type": [
         "AI 网站生成"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND webassistants.ai"
     },
     "https://webflow.com": {
@@ -7234,7 +7236,9 @@
         "FREEAPI",
         "API"
       ],
-      "lang": "zh"
+      "lang": "zh",
+      "needVerify": 1,
+      "errmsg": "[error][-1]connect ECONNREFUSED 150.109.7.7:443"
     },
     "https://www.aimix.pro": {
       "title": "AIMIX智剪",
@@ -8029,9 +8033,7 @@
       "desc": "万兴科技旗下的亿图脑图MindMaster软件是一款多平台思维导图软件，可用于Windows，Mac和Linux等桌面环境，也可以在线使用或在苹果，安卓等移动端上使用。",
       "type": [
         "AI 思维导图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.elegantresume.pro": {
       "title": "优雅简历",
@@ -8357,7 +8359,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.hanlinmiaobi.com"
     },
     "https://www.heyfriday.cn/home": {
@@ -9210,9 +9212,7 @@
         "AI 提示词"
       ],
       "title": "Ordinary Prompts",
-      "desc": "有趣ChatGPT提示词",
-      "needVerify": 1,
-      "errmsg": "[error][-1]socket hang up"
+      "desc": "有趣ChatGPT提示词"
     },
     "https://www.overleaf.com": {
       "title": "Overleaf",
@@ -9693,9 +9693,7 @@
       "desc": "国内团队开发的图片模型分享社区。",
       "type": [
         "AI 绘图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.semrush.com": {
       "title": "Semrush",
@@ -9858,7 +9856,9 @@
         "大厂合集",
         "智能体",
         "API"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1194:18)\n    at internalConnectMultiple (node:net:1270:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1811:"
     },
     "https://www.stepfun.com/download": {
       "title": "阶跃AI Desktop",
