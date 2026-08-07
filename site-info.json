@@ -333,9 +333,7 @@
       "desc": "360旗下的AI聊天助手",
       "type": [
         "AI 聊天对话"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://ai.baidu.com/unit/home": {
       "title": "百度客悦ONE·智能客服",
@@ -1969,9 +1967,7 @@
         "AI 提示词",
         "AI 国外工具",
         "AI 写作助手"
-      ],
-      "needVerify": 3,
-      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:132.196.82.3:1785963564.105\"></meta></head></html>"
+      ]
     },
     "https://copaw.agentscope.io": {
       "title": "CoPaw",
@@ -2734,7 +2730,9 @@
       "type": [
         "AI 文档办公",
         "AI 学习资源"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://gamma.ai": {
       "title": "Gamma.ai",
@@ -3914,7 +3912,9 @@
         "HOT",
         "大厂合集",
         "API"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://kiro.dev": {
       "title": "Kiro",
@@ -6057,9 +6057,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://shangchenzhou.com/projects/CodeFormer/": {
       "title": "CodeFormer",
@@ -6871,7 +6869,7 @@
       "type": [
         "AI 网站生成"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND webassistants.ai"
     },
     "https://webflow.com": {
@@ -7237,7 +7235,7 @@
         "API"
       ],
       "lang": "zh",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]connect ECONNREFUSED 150.109.7.7:443"
     },
     "https://www.aimix.pro": {
@@ -7469,7 +7467,9 @@
       "type": [
         "AI 视频生成",
         "AI 语音生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.beautiful.ai": {
       "title": "Beautiful.ai",
@@ -8359,8 +8359,9 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.hanlinmiaobi.com"
+      "needVerify": 7,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.hanlinmiaobi.com",
+      "hide": 1
     },
     "https://www.heyfriday.cn/home": {
       "type": [
@@ -9856,9 +9857,7 @@
         "大厂合集",
         "智能体",
         "API"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1194:18)\n    at internalConnectMultiple (node:net:1270:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1811:"
+      ]
     },
     "https://www.stepfun.com/download": {
       "title": "阶跃AI Desktop",
