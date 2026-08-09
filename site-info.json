@@ -1967,9 +1967,7 @@
         "AI 提示词",
         "AI 国外工具",
         "AI 写作助手"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:52.161.46.117:1786220384.255\"></meta></head></html>"
+      ]
     },
     "https://copaw.agentscope.io": {
       "title": "CoPaw",
@@ -2652,7 +2650,9 @@
       ],
       "type": [
         "AI 翻译工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]read ECONNRESET"
     },
     "https://formulabot.com": {
       "title": "Excel Formula Bot",
@@ -6731,7 +6731,9 @@
         "AI 视频生成"
       ],
       "title": "Virbo",
-      "desc": "Virbo是一款万兴科技旗下的数字人营销视频创作神器。"
+      "desc": "Virbo是一款万兴科技旗下的数字人营销视频创作神器。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://vizard.ai": {
       "type": [
@@ -6867,7 +6869,7 @@
       "type": [
         "AI 网站生成"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND webassistants.ai"
     },
     "https://webflow.com": {
@@ -7233,7 +7235,7 @@
         "API"
       ],
       "lang": "zh",
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]connect ECONNREFUSED 150.109.7.7:443"
     },
     "https://www.aimix.pro": {
@@ -7465,9 +7467,7 @@
       "type": [
         "AI 视频生成",
         "AI 语音生成"
-      ],
-      "needVerify": 3,
-      "errmsg": "[error][-1]getaddrinfo EAI_AGAIN www.beatoven.ai"
+      ]
     },
     "https://www.beautiful.ai": {
       "title": "Beautiful.ai",
@@ -9692,9 +9692,7 @@
       "desc": "国内团队开发的图片模型分享社区。",
       "type": [
         "AI 绘图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.semrush.com": {
       "title": "Semrush",

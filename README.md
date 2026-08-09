@@ -299,7 +299,7 @@
 1. [[⭐] https://taishan.qq.com/brand/](https://taishan.qq.com/brand/) **智绘设计。** 智绘设计是一个多场景智能设计服务商，提供正版设计素材和丰富的场景，帮助用户创意无限。它包括以下主要功能：秒速创作，一键出图；智能封面，一键智能生成精美封面；AI视频剪辑，一键智能生成影片视频；智能抠图，一键分离图像画面中的主体内容；人像动漫化，一键生成个性化的二次元动漫形象。智绘做图定位于提供高效创作工具和丰富的设计素材，适用于个人和商业用户。
 1. [[⭐] https://tianyin.163.com](https://tianyin.163.com) **网易天音。** 网易出品！一站式AI编曲渲染导出，零基础写歌
 1. [[⭐] https://typemovie.art](https://typemovie.art) **讯飞绘镜。** 一款AI视频创作平台。输入创意，即可生成脚本和分镜图片，并将静态分镜化为动态视频。支持快速生成图片与视频，帮助创作者高效捕捉灵感，轻松实现创意表达。
-1. [[⭐] https://virbo.wondershare.cn](https://virbo.wondershare.cn) **Virbo。** Virbo是一款万兴科技旗下的数字人营销视频创作神器。
+1. [[⭐] https://virbo.wondershare.cn](https://virbo.wondershare.cn) **Virbo。** Virbo是一款万兴科技旗下的数字人营销视频创作神器。 `[error][-1]timeout`
 1. [[⭐] https://vizard.ai](https://vizard.ai) **Vizard AI。** 一款 AI 驱动的视频生成和编辑器，可将一段长视频瞬间转换成10多个剪辑。AI 驱动的在线视频编辑器和屏幕录像机，让您能够创建病毒式视频剪辑。自动字幕生成器。
 1. [[⭐] https://wanxai.com](https://wanxai.com) **Wan。** Wan是阿里巴巴通义实验室开发的先进视觉生成模型，具备强大的视频生成能力。它能够根据文本、图像及其他控制信号生成视频。Wan2.1系列模型现已完全开源。其主要优点包括卓越的复杂运动生成能力，能够生成逼真的视频，涵盖广泛的身体动作、复杂旋转、动态场景转换和流畅的镜头运动；精准的物理模拟，生成符合真实物理规律的视频；电影质感的画面，提供丰富的纹理和多样化的风格化效果；可控的编辑功能，支持使用图像或视频参考进行精确编辑。该模型的开源为视频生成领域带来了新的可能性，降低了使用门槛，推动了相关技术的发展。
 1. [[⭐] https://weta365.com/conduct](https://weta365.com/conduct) **奇妙元。** 奇妙元提供真人形象克隆、声音克隆、3D 数字人定制和 IP 活化等超前沿的克隆与定制服务。通过高质量数据输入和迭代克隆模型，实现高清还原真人形象。用户可使用真人形象克隆终身，通过输入文字使数字人说话，表情神态可比真人。此外，奇妙元还提供数字人视频制作、直播会员和定制服务等功能。数字人视频制作可一键将文本转为视频，无需繁琐拍摄；直播会员可选择真人数字人或 3D 数字人进行直播，为用户挣钱；定制服务可根据用户需求定制数字人形象。奇妙元的产品广泛应用于 20 多个行业，500 多个客户已经受益于数字人定制与克隆服务。
@@ -307,6 +307,7 @@
 1. [[⭐] https://www.aimix.pro](https://www.aimix.pro) **AIMIX智剪。** AIMIX智剪是一款集短视频批量剪辑、字幕生成、配音合成等多项功能于一体的短视频内容生产工具。它可以实现智能语音识别、视频脚本设计、快速混剪、字幕制作、配音合成等,大幅提高短视频内容制作效率。关键优势是内容原创性强、支持批量生产、简单易用。定位于需要大量原创短视频内容的个人或机构用户。
 1. [[⭐] https://www.animiz.cn/microvideo](https://www.animiz.cn/microvideo) **万彩微影。** 万彩微影，一款全能的AI智能短视频制作软件合集，专门制作热门的手绘动画视频，文字动画视频，还能一键把图文/文章/PPT转换为视频。
 1. [[⭐] https://www.arcads.ai](https://www.arcads.ai) **Arcads。** Arcads提供AI视频广告生成器，允许用户快速从文本创建视频广告，特别适合需要大量视频内容的品牌和营销团队。
+1. [[⭐] https://www.beatoven.ai](https://www.beatoven.ai) **Beatoven.ai。** Beatoven.ai利用先进的AI音乐生成技术，为您的视频或播客创作独特的基于情感的音乐，以适应您内容的每个部分。我们提供免费试用，定价详细请访问官方网站。
 1. [[⭐] https://www.capcut.cn](https://www.capcut.cn) **剪映专业版。** 强大的国产剪辑工具！支持AI智能生成字幕和配音
 1. [[⭐] https://www.chanjing.cc](https://www.chanjing.cc) **蝉镜。** 蝉镜是一个在线数字人视频创作平台，利用 AI 简化视频创作过程，提供 AI 数字人播报、短视频制作、分身定制等服务。广告营销、跨境电商、短视频口播等领域的用户可以在此提升创作效率、降低成本。
 1. [[⭐] https://www.creatifyone.com](https://www.creatifyone.com) **创一AI。** 创一AI是一款专业的AI短视频脚本创作工具，旨在通过人工智能技术帮助用户快速生成高质量的短视频脚本。该产品利用先进的自然语言处理技术，结合用户需求，能够自动分析并创作出符合主题的脚本内容，大大提高了视频创作者的工作效率。创一深入理解以及对用户需求的精准把握，价格定位为免费体验，以吸引更多用户使用。
@@ -338,7 +339,6 @@
 1. [[⭐⭐⭐🚀] https://pika.art](https://pika.art) **Pika。** Pika致力于用AI让每个人都能成为自己故事的导演，并激发我们每个人的创造力。
 1. [[⭐⭐⭐🚀] https://www.heygen.com](https://www.heygen.com) **Heygen。** AI生成真人营销视频
 1. [[🚀] https://lumalabs.ai](https://lumalabs.ai) **Luma Labs。** 将视频转为游戏资产
-1. [[❓] https://www.beatoven.ai](https://www.beatoven.ai) **Beatoven.ai。** Beatoven.ai利用先进的AI音乐生成技术，为您的视频或播客创作独特的基于情感的音乐，以适应您内容的每个部分。我们提供免费试用，定价详细请访问官方网站。 `[error][-1]getaddrinfo EAI_AGAIN www.beatoven.ai`
 
 ### AI 数字人 (9)
 
@@ -347,7 +347,7 @@
 1. [[⭐] https://keyue.cloud.baidu.com](https://keyue.cloud.baidu.com) **百度智能云客悦。** 百度智能云客悦基于百度文心一言大模型,全面重构智能客服系列产品,涵盖客户服务、智能营销、智能通信三大系列,满足企业智能客服全场景需求。主要产品包括:智能对话平台(提供大模型驱动的高智能客服机器人)、智能外呼平台(高拟人度语音对话营销)、对话洞察平台(对话数据分析洞见优化建议)、智能通信平台(集成通信资源API接入)等。产品优势有:基于大模型对话更准确友好全面、高效快速上线运营、多渠道无缝集成适配等。
 1. [[⭐] https://shanjian.tv](https://shanjian.tv) **闪剪-AI数字人。** 闪剪是一款 AI 数字人视频生成工具，用户可以定制自己的数字人，只需输入文字即可生成口播视频。
 闪剪具备形象、声音克隆；链接成片以及直播切片等功能，手机端和网页端通用。
-1. [[⭐] https://virbo.wondershare.cn](https://virbo.wondershare.cn) **Virbo。** Virbo是一款万兴科技旗下的数字人营销视频创作神器。
+1. [[⭐] https://virbo.wondershare.cn](https://virbo.wondershare.cn) **Virbo。** Virbo是一款万兴科技旗下的数字人营销视频创作神器。 `[error][-1]timeout`
 1. [[⭐] https://weta365.com/conduct](https://weta365.com/conduct) **奇妙元。** 奇妙元提供真人形象克隆、声音克隆、3D 数字人定制和 IP 活化等超前沿的克隆与定制服务。通过高质量数据输入和迭代克隆模型，实现高清还原真人形象。用户可使用真人形象克隆终身，通过输入文字使数字人说话，表情神态可比真人。此外，奇妙元还提供数字人视频制作、直播会员和定制服务等功能。数字人视频制作可一键将文本转为视频，无需繁琐拍摄；直播会员可选择真人数字人或 3D 数字人进行直播，为用户挣钱；定制服务可根据用户需求定制数字人形象。奇妙元的产品广泛应用于 20 多个行业，500 多个客户已经受益于数字人定制与克隆服务。
 1. [[⭐] https://www.chanjing.cc](https://www.chanjing.cc) **蝉镜。** 蝉镜是一个在线数字人视频创作平台，利用 AI 简化视频创作过程，提供 AI 数字人播报、短视频制作、分身定制等服务。广告营销、跨境电商、短视频口播等领域的用户可以在此提升创作效率、降低成本。
 1. [[⭐] https://www.kreadoai.com](https://www.kreadoai.com) **Kreado AI。** 多语言AI视频创作，只需输入文本或关键词，即可创作真实/虚拟人物的多语言口播视频。
@@ -389,6 +389,7 @@
 1. [[⭐] https://work.duiopen.com](https://work.duiopen.com) **麦耳会记。** 麦耳会记是一款集实时语音转写、实时翻译和 AI 辅助写作功能为一体的 AI 办公助手。它可以用于办公会议、学生网课、客户访谈录音等场景。软件支持边录音、边转写，录音结束后，音频、文本实时同步至 PC 端、手机端。采用云端存储资料的方式，无论是办公、地铁，还是旅游途中，都可以随时随地查看文档或音频。麦耳会记还提供实时字幕同传功能，帮助听力受损人士更好地参与会议。
 1. [[⭐] https://www.aboutamazon.com/news/devices/amazon-2025-devices-alexa-event-live-updates](https://www.aboutamazon.com/news/devices/amazon-2025-devices-alexa-event-live-updates) **Alexa+。** Alexa+ 是亚马逊在 2025 年推出的下一代智能语音助手，基于生成式 AI 技术构建。它不仅能够进行自然流畅的对话，还能连接数千种服务和设备，帮助用户完成各种任务。其核心优势在于强大的语言理解能力、个性化服务以及无缝的设备集成。Alexa+ 的推出标志着语音助手从简单的问答工具向真正的智能生活助手的转变，能够帮助用户更好地管理日常生活和智能家居设备。
 1. [[⭐] https://www.aiva.ai](https://www.aiva.ai) **Aiva。** AIVA是一款人工智能音乐创作助手，为创作者提供原创且个性化的音乐配乐。通过利用AI生成的音乐，以比以往更快的速度为项目创作引人入胜的主题。我们提供多种预设风格和算法，包括现代电影、电子音乐、流行音乐、环境音乐、摇滚音乐、幻想音乐、爵士乐、海上颂歌、20世纪电影、探戈、中国音乐等。订阅我们的专业计划，您将永久拥有使用AIVA创作的任何作品的完整版权。定价方案有个人版、学生和学校版以及企业版。
+1. [[⭐] https://www.beatoven.ai](https://www.beatoven.ai) **Beatoven.ai。** Beatoven.ai利用先进的AI音乐生成技术，为您的视频或播客创作独特的基于情感的音乐，以适应您内容的每个部分。我们提供免费试用，定价详细请访问官方网站。
 1. [[⭐] https://www.cyrinn.cn](https://www.cyrinn.cn) **赛灵力。** 赛灵力虚拟数字人工厂致力于 2D 虚拟人、3D 虚拟人、声音克隆等 AI 技术探索和产业应用，为企业、政府、个人提供虚拟数字人 AI 视频创作、个人形象定制、声音定制、智能语音合成等服务。
 1. [[⭐] https://www.feishu.cn/product/minutes](https://www.feishu.cn/product/minutes) **飞书妙记。** 飞书妙记是智能会议纪要工具，可将会议内容转录成易搜索、可翻译的逐字稿，自动总结会议纪要与待办事项，提升回顾和协作效率。
 1. [[⭐] https://www.haimian.com](https://www.haimian.com) **海绵音乐。** 海绵音乐 - 一键创作你的 AI 音乐
@@ -405,7 +406,6 @@
 1. [[⭐] https://www.texttovoice.online](https://www.texttovoice.online) **Texttovoice.online。** 在线文本转语音是一款免费的工具，可以将文本转换为真实的语音。它具有高音质、自然的语音效果，并支持多种语言和声音选择。用户只需输入文本，选择语言和声音，即可生成自定义的语音内容。该工具适用于多种场景，如视频配音、教育辅助、语音导航等。无论是Mac还是Windows用户，都可以轻松使用该工具。
 1. [[⭐] https://www.yinziai.com](https://www.yinziai.com) **音子 AI。** 音子 AI 是一款在线音轨分离解决方案，用户可上传音频或视频文件，立即获取独立的人声和伴奏文件。该产品基于人工智能技术，提供高效的音轨提取功能。
 1. [[⭐] https://y.qq.com/tme_studio/](https://y.qq.com/tme_studio/) **TME Studio。** TME Studio是一款为音乐爱好者提供的创作工具。它包括音乐分离、MIR计算、辅助写词、智能曲谱等功能。用户可以上传任意歌曲，分离出其中的人声和乐器，进行音乐内容理解与分析，提取音乐的各种信息。同时，它还提供了作词工具，帮助用户找到合适的押韵词语，打开创作灵感。另外，用户还可以生成智能吉他曲谱，只需上传音乐即可弹奏自己想弹的歌曲。音乐创作助手将助力音乐爱好者更轻松地进行音乐创作。
-1. [[❓] https://www.beatoven.ai](https://www.beatoven.ai) **Beatoven.ai。** Beatoven.ai利用先进的AI音乐生成技术，为您的视频或播客创作独特的基于情感的音乐，以适应您内容的每个部分。我们提供免费试用，定价详细请访问官方网站。 `[error][-1]getaddrinfo EAI_AGAIN www.beatoven.ai`
 
 ### AI 角色生成 (13)
 
@@ -426,7 +426,7 @@
 ### AI 提示词 (19)
 
 1. [[⭐] https://catjourney.life](https://catjourney.life) **Catjourney。** 超多实用的 MJ Style Tuner风格库
-1. [[⭐] https://contentatscale.ai/ai-prompt-library](https://contentatscale.ai/ai-prompt-library) **Content at scale。** 收录最佳的ChatGPT prompt提示词 `[error][202]<html><head><link rel="icon" href="data:;"><meta http-equiv="refresh" content="0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:52.161.46.117:1786220384.255"></meta></head></html>`
+1. [[⭐] https://contentatscale.ai/ai-prompt-library](https://contentatscale.ai/ai-prompt-library) **Content at scale。** 收录最佳的ChatGPT prompt提示词
 1. [[⭐] https://learningprompt.wiki](https://learningprompt.wiki) **Learning Prompt。** 提供免费的Prompt Engineering教程，包含ChatGPT和Midjourney的教程。
 1. [[⭐] https://lib.kalos.art](https://lib.kalos.art) **LIB.KALOS.ART。** 艺术风格流派参考库
 1. [[⭐] https://midlibrary.io](https://midlibrary.io) **Midlibrary。** 风格多样！实用超2000+MJ提示词资源
@@ -560,7 +560,7 @@
 1. [[⭐] https://audionotes.ai](https://audionotes.ai) **AudioNotes.ai。** AudioNotes.ai是一款利用智能AI将您的口述文字转化为有序文本摘要的应用程序，使得记笔记、头脑风暴和内容创作等活动变得更加轻松！您只需通过语音输入，即可获得清晰、有序的文字记录。此外，AudioNotes.ai还具有智能分类和标签功能，帮助您快速组织和检索笔记。该应用程序适用于各种场景，包括会议记录、学习笔记、写作草稿等。通过AudioNotes.ai，您可以更高效地记录和整理您的想法，提升工作和学习效率。
 1. [[⭐] https://bearly.ai](https://bearly.ai) **Bearly。** 英文阅读写作效率提高10倍
 1. [[⭐] https://chuangyi.taobao.com/pages/aiCopy](https://chuangyi.taobao.com/pages/aiCopy) **悉语。** 悉语智能是阿里妈妈创意中心出品的一款一键生成商品营销文案的工具。
-1. [[⭐] https://contentatscale.ai/ai-prompt-library](https://contentatscale.ai/ai-prompt-library) **Content at scale。** 收录最佳的ChatGPT prompt提示词 `[error][202]<html><head><link rel="icon" href="data:;"><meta http-equiv="refresh" content="0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:52.161.46.117:1786220384.255"></meta></head></html>`
+1. [[⭐] https://contentatscale.ai/ai-prompt-library](https://contentatscale.ai/ai-prompt-library) **Content at scale。** 收录最佳的ChatGPT prompt提示词
 1. [[⭐] https://cp.baidu.com](https://cp.baidu.com) **橙篇。** 百度旗下写作助手，长文生成神器
 1. [[⭐] https://effidit.qq.com](https://effidit.qq.com) **Effidit写作助手。** Effidit是由腾讯AI Lab 开发的一个智能创作助手，探索用AI技术提升写作者的写作效率和创作体验。
 1. [[⭐] https://elevenlabs.io](https://elevenlabs.io) **Eleven Labs。** ElevenLabs 带来了最逼真、丰富和生动的声音，为寻求叙事的终极工具的创作者和发布者提供了最具吸引力的文本转语音和语音克隆软件。
@@ -671,7 +671,7 @@
 1. [[⭐] https://fanyi.sogou.com/text](https://fanyi.sogou.com/text) **搜狗翻译。** 支持中、英、法、日等50多种语言之间的互译功能
 1. [[⭐] https://fanyi.xfyun.cn/console/trans/text](https://fanyi.xfyun.cn/console/trans/text) **讯飞智能翻译。** 科大讯飞推出的人工智能翻译平台
 1. [[⭐] https://fanyi.youdao.com](https://fanyi.youdao.com) **有道翻译。** 网易旗下深受用户喜欢的口碑型学习工具产品
-1. [[⭐] https://flowus.cn/ai](https://flowus.cn/ai) **FlowUs AI。** FlowUs AI 是一款智能化工具，能够帮助用户在工作、学习和生活中高效地完成各项任务。它提供了包括文章创作、文本润色、风格改写、内容分析、解释说明、摘要总结、AI 任务处理、代码处理、表格处理、Latex 公式处理、AI 翻译等在内的丰富功能。用户可以通过 FlowUs AI 提高文章质量和表达能力，优化文本结构、修正语病和拼写错误，智能处理文本、表格、代码和公式等内容，实现多国语言互译等。
+1. [[⭐] https://flowus.cn/ai](https://flowus.cn/ai) **FlowUs AI。** FlowUs AI 是一款智能化工具，能够帮助用户在工作、学习和生活中高效地完成各项任务。它提供了包括文章创作、文本润色、风格改写、内容分析、解释说明、摘要总结、AI 任务处理、代码处理、表格处理、Latex 公式处理、AI 翻译等在内的丰富功能。用户可以通过 FlowUs AI 提高文章质量和表达能力，优化文本结构、修正语病和拼写错误，智能处理文本、表格、代码和公式等内容，实现多国语言互译等。 `[error][-1]read ECONNRESET`
 1. [[⭐] https://jam.dev/jamgpt](https://jam.dev/jamgpt) **JamGPT。** AI Debug调试助手，快速找到解决方案
 1. [[⭐] https://saga.so/ai](https://saga.so/ai) **Saga AI。** Saga AI是一款基于人工智能的助手，可以在您的工作空间中帮助您完成草稿内容、生成创意思路、修复语法错误，并一键翻译成20多种语言。它可以帮助您节省时间，专注于重要事项。
 1. [[⭐] https://sight.youdao.com](https://sight.youdao.com) **网易见外。** 网易自营的智能转写翻译服务。
@@ -821,7 +821,7 @@ Memkey的定价信息请查阅官方网站。该产品定位于提升团队的�
 1. [[⭐] https://aicolors.co](https://aicolors.co) **AIcolors。** 根据文本生成调色板，提供配色案例参考
 1. [[⭐] https://app.recraft.ai/community](https://app.recraft.ai/community) **Recraft。** 便捷的AI生成矢量图像生成工具
 1. [[⭐] https://boolpic.fun/background-remover](https://boolpic.fun/background-remover) **Toolkit。** 多功能的AI图片处理工具箱
-1. [[⭐] https://contentatscale.ai/ai-prompt-library](https://contentatscale.ai/ai-prompt-library) **Content at scale。** 收录最佳的ChatGPT prompt提示词 `[error][202]<html><head><link rel="icon" href="data:;"><meta http-equiv="refresh" content="0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:52.161.46.117:1786220384.255"></meta></head></html>`
+1. [[⭐] https://contentatscale.ai/ai-prompt-library](https://contentatscale.ai/ai-prompt-library) **Content at scale。** 收录最佳的ChatGPT prompt提示词
 1. [[⭐] https://fliki.ai](https://fliki.ai) **Fliki。** 高效帮用户创建视频，具有文本转语音功能
 1. [[⭐] https://github.com/pAIrprogio/vscode-ui-sketcher](https://github.com/pAIrprogio/vscode-ui-sketcher) **UI Sketcher。** VSCode插件,借助GPT-4V的多模态能力,在插件中画出界面草图,就能生成一个基于ReactNative的UI界面
 1. [[⭐] https://github.com/tldraw/make-real](https://github.com/tldraw/make-real) **Makereal Tldraw。** 通过草图生成可交互的UI界面和代码
@@ -1343,7 +1343,7 @@ Memkey的定价信息请查阅官方网站。该产品定位于提升团队的�
 1. [[⭐] https://www.remove.bg](https://www.remove.bg) **Remove.bg。** 去背神器是一款可以一键去除图片背景的工具。它通过智能算法分析图片，将背景与主体分离，实现快速、准确的去背效果。该工具操作简单，无需任何设计经验，适用于个人用户和设计专业人士。去背神器提供免费试用和付费套餐，付费套餐提供更多高级功能和更大的使用额度。
 1. [[⭐] https://www.restorephotos.io](https://www.restorephotos.io) **Restorephoto。** 效果惊艳的AI修复面容模糊的照片
 1. [[⭐] https://www.runwayml.com](https://www.runwayml.com) **Runwayml。** Runway是一家应用人工智能研究公司，塑造着艺术、娱乐和人类创造力的下一个时代。我们提供多模态AI系统，帮助实现人类创造力的新纪元。
-1. [[⭐] https://www.seaart.ai](https://www.seaart.ai) **SeaArt。** 国内团队开发的图片模型分享社区。 `[error][-1]timeout`
+1. [[⭐] https://www.seaart.ai](https://www.seaart.ai) **SeaArt。** 国内团队开发的图片模型分享社区。
 1. [[⭐] https://www.shuiyinyun.com](https://www.shuiyinyun.com) **水印云。** 水印云是一款集图片去水印等多功能去水印软件，采用先进的 AI 技术，能快速识别并删除照片中的文字、logo 等不需要的内容，保持高清画质。
 1. [[⭐] https://www.sloyd.ai](https://www.sloyd.ai) **Sloyd。** 快速生成3D游戏资产
 1. [[⭐] https://www.tracejourney.com](https://www.tracejourney.com) **Tracejourney。** 拯救MJ渣画质！图片一键转矢量
