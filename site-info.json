@@ -333,7 +333,9 @@
       "desc": "360旗下的AI聊天助手",
       "type": [
         "AI 聊天对话"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://ai.baidu.com/unit/home": {
       "title": "百度客悦ONE·智能客服",
@@ -1967,7 +1969,9 @@
         "AI 提示词",
         "AI 国外工具",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://copaw.agentscope.io": {
       "title": "CoPaw",
@@ -2651,7 +2655,7 @@
       "type": [
         "AI 翻译工具"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]read ECONNRESET"
     },
     "https://formulabot.com": {
@@ -6610,7 +6614,9 @@
       ],
       "star": 2,
       "title": "TTSMaker马克配音",
-      "desc": "免费的在线文本转语音神器"
+      "desc": "免费的在线文本转语音神器",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://tusiart.com": {
       "type": [
@@ -6731,9 +6737,7 @@
         "AI 视频生成"
       ],
       "title": "Virbo",
-      "desc": "Virbo是一款万兴科技旗下的数字人营销视频创作神器。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "Virbo是一款万兴科技旗下的数字人营销视频创作神器。"
     },
     "https://vizard.ai": {
       "type": [
@@ -6869,8 +6873,9 @@
       "type": [
         "AI 网站生成"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND webassistants.ai"
+      "needVerify": 7,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND webassistants.ai",
+      "hide": 1
     },
     "https://webflow.com": {
       "type": [
@@ -7235,7 +7240,7 @@
         "API"
       ],
       "lang": "zh",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]connect ECONNREFUSED 150.109.7.7:443"
     },
     "https://www.aimix.pro": {
@@ -9596,7 +9601,9 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][502]Bad Gateway"
     },
     "https://www.researchrabbit.ai": {
       "title": "ResearchRabbit",
