@@ -333,9 +333,7 @@
       "desc": "360旗下的AI聊天助手",
       "type": [
         "AI 聊天对话"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://ai.baidu.com/unit/home": {
       "title": "百度客悦ONE·智能客服",
@@ -1113,7 +1111,9 @@
       ],
       "tags": [
         "CLI"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://block.github.io/goose/": {
       "title": "Goose",
@@ -1970,8 +1970,8 @@
         "AI 国外工具",
         "AI 写作助手"
       ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 2,
+      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:172.184.220.144:1786480582.728\"></meta></head></html>"
     },
     "https://copaw.agentscope.io": {
       "title": "CoPaw",
@@ -2654,9 +2654,7 @@
       ],
       "type": [
         "AI 翻译工具"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][-1]read ECONNRESET"
+      ]
     },
     "https://formulabot.com": {
       "title": "Excel Formula Bot",
@@ -6614,9 +6612,7 @@
       ],
       "star": 2,
       "title": "TTSMaker马克配音",
-      "desc": "免费的在线文本转语音神器",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "免费的在线文本转语音神器"
     },
     "https://tusiart.com": {
       "type": [
@@ -6737,7 +6733,9 @@
         "AI 视频生成"
       ],
       "title": "Virbo",
-      "desc": "Virbo是一款万兴科技旗下的数字人营销视频创作神器。"
+      "desc": "Virbo是一款万兴科技旗下的数字人营销视频创作神器。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://vizard.ai": {
       "type": [
@@ -7240,8 +7238,9 @@
         "API"
       ],
       "lang": "zh",
-      "needVerify": 6,
-      "errmsg": "[error][-1]connect ECONNREFUSED 150.109.7.7:443"
+      "needVerify": 7,
+      "errmsg": "[error][-1]connect ECONNREFUSED 150.109.7.7:443",
+      "hide": 1
     },
     "https://www.aimix.pro": {
       "title": "AIMIX智剪",
@@ -9601,9 +9600,7 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][502]Bad Gateway"
+      ]
     },
     "https://www.researchrabbit.ai": {
       "title": "ResearchRabbit",
