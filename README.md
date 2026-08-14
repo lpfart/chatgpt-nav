@@ -91,7 +91,7 @@
 1. [[⭐] https://appicons.ai](https://appicons.ai) **Appicons AI。** AI生成精致的App图标
 1. [[⭐] https://arc.tencent.com/zh/ai-demos/humansegmentation](https://arc.tencent.com/zh/ai-demos/humansegmentation) **腾讯ARC官网。** 腾讯 ARC 官网是腾讯 PCG 旗下的应用研究中心，致力于探索和挑战智能媒体前沿技术。团队汇聚了国内外一流高端人才，主要研究领域涵盖视觉、音频、自然语言处理等，通过 AutoML、多模态和深度学习等方法提高算法性能。ARC 通过解耦业务需求和科研的机制，与业务团队合作，以业务需求和行业趋势为导向，不断探索、创新和突破。网站提供了关于 ARC 的使命、团队介绍、机制和领域等详细信息。
 1. [[⭐] https://bgeraser.com](https://bgeraser.com) **Bg.Eraser。** 背景擦除器是一款使用AI技术快速、轻松地从照片中移除背景的工具。它能够帮助用户实现专业级的效果，增强图像的质量。背景擦除器还提供批量处理功能，节省用户大量的时间和精力。无论是用于产品照片、人像、图形、风景照片、动物照片还是物体，背景擦除器都能帮助用户实现理想的效果。
-1. [[⭐] https://bgsub.cn](https://bgsub.cn) **BgSub。** BgSub 是一个完全自动化的图像处理工具，使用先进的人工智能技术自动消除或替换图像背景。它可以智能调整颜色，所有操作都在浏览器中完成，无需上传图像。BgSub 不仅能够节省时间，还能保护用户隐私。它适用于个人用户、网站 / 应用开发者、摄影师、电子商务、媒体从业者和市场营销人员等多个场景。
+1. [[⭐] https://bgsub.cn](https://bgsub.cn) **BgSub。** BgSub 是一个完全自动化的图像处理工具，使用先进的人工智能技术自动消除或替换图像背景。它可以智能调整颜色，所有操作都在浏览器中完成，无需上传图像。BgSub 不仅能够节省时间，还能保护用户隐私。它适用于个人用户、网站 / 应用开发者、摄影师、电子商务、媒体从业者和市场营销人员等多个场景。 `[error][-1]timeout`
 1. [[⭐] https://bigesj.com/ai-ppt/](https://bigesj.com/ai-ppt/) **比格PPT。** 比格PPT是一款功能强大的在线智能PPT设计SaaS平台。用户可以通过语言描述快速自动生成PPT,大大提升工作效率。平台拥有10000+精美PPT模板,覆盖商业、教育等多个行业场景。用户还可以利用平台强大的AI功能,一键优化PPT内容,实现高质量的演示文稿内容。平台提供了多种订阅方案,个人用户每月最低¥19元起,企业用户可享受更优惠价格
 1. [[⭐] https://bigjpg.com](https://bigjpg.com) **Bigjpg。** AI图片在线无损放大
 1. [[⭐] https://boolpic.fun/background-remover](https://boolpic.fun/background-remover) **Toolkit。** 多功能的AI图片处理工具箱
@@ -249,7 +249,7 @@
 1. [[⭐⭐⭐] https://klingai.kuaishou.com](https://klingai.kuaishou.com) **可灵AI。** 快手旗下的新一代AI创意生产力平台
 1. [[⭐⭐⭐] https://runwayml.com](https://runwayml.com) **Runway。** Runway提供一系列易于使用的工具和平台，利用人工智能技术创造出令人惊叹的艺术作品和创意内容。他们的技术可以用于图像生成、视频编辑、音频合成、文字生成等多个创作领域。
 1. [[⭐⭐] https://hailuoai.video](https://hailuoai.video) **Hailuo AI。** Hailuo AI Video Generator 是一款利用人工智能技术，根据文本提示自动生成视频内容的工具。它通过深度学习算法，将用户的文字描述转化为视觉图像，极大地简化了视频制作流程，提高了创作效率。该产品适用于需要快速生成视频内容的个人和企业，特别是在广告、社交媒体内容制作和电影预览等领域。
-1. [[⭐⭐] https://ttsmaker.cn](https://ttsmaker.cn) **TTSMaker马克配音。** 免费的在线文本转语音神器
+1. [[⭐⭐] https://ttsmaker.cn](https://ttsmaker.cn) **TTSMaker马克配音。** 免费的在线文本转语音神器 `[error][-1]timeout`
 1. [[⭐] https://ai.invideo.io](https://ai.invideo.io) **InVideo。** 利用invideo AI，您可以立即将任何内容或想法转化为视频。
 1. [[⭐] https://ai.jurilu.com](https://ai.jurilu.com) **巨日禄AI。** 巨日禄AI是一款全网性能卓越的故事AI绘画转视频工具，旨在让0基础小白也能轻松上手，快速实现从文案到视频的制作。该工具通过分析大量剧本数据和影视作品，为用户提供各种类型的故事情节和角色设置，帮助用户快速找到灵感，减少构思剧本的困难和犹豫。无需本地部署，快速出图，支持配音配乐，一站式解决小说、漫画推文等需求。角色固定，画风统一，提供多种风格选择。AI自动解析分镜，解析提示词，操作简单流畅，即使零基础小白也能轻松上手，做出精美的视频作品。
 1. [[⭐] https://aigc.baidu.com](https://aigc.baidu.com) **百度度加创作工具。** 百度旗下产品，打造人人可用的AI创作工具
@@ -292,7 +292,7 @@
 1. [[⭐] https://mubert.com](https://mubert.com) **Mubert。** 使用人工智能为您的视频内容、播客和应用程序生成音乐。
 1. [[⭐] https://no-lang.com](https://no-lang.com) **NoLang。** NoLang是一款基于AI技术的解释视频生成工具。它可以根据用户输入的文本或文档内容,实时生成解释性的视频。主要功能包括:1.文本到视频的实时转换;2.PDF文件等资料的自动视频化汇总;3.可持续对话形式生成视频;4.通过浏览器扩展程序随时调用使用。NoLang的优势是让复杂概念的理解变得更加简单直观,解决信息获取效率低下的问题。主要面向需要获取信息、学习新知识的用户群体,免费使用。
 1. [[⭐] https://pixverse.ai](https://pixverse.ai) **PixVerse。** PixVerse是一款创新的AI创作平台，利用强大的生成式AI释放视频创作的全部潜力，让您的内容令人惊叹和难忘。PixVerse通过智能算法和深度学习技术，可以将您的创意转化为令人惊叹的视觉效果。我们提供丰富的功能，包括生成令人惊叹的场景、特效、音乐等，以满足不同类型视频的需求。PixVerse还提供定制化的选项，使您能够根据自己的需求进行个性化定制。无论您是想制作个人视频，还是需要为商业项目创作独特的宣传片，PixVerse都是您理想的选择。
-1. [[⭐] https://senseavatar.sensetime.com](https://senseavatar.sensetime.com) **商汤如影。** 商汤日日新 SenseNova 大模型体系提供多种大模型及能力，助力各行业智能化创新，以大算力引领通用人工智能发展。 `[error][-1]timeout`
+1. [[⭐] https://senseavatar.sensetime.com](https://senseavatar.sensetime.com) **商汤如影。** 商汤日日新 SenseNova 大模型体系提供多种大模型及能力，助力各行业智能化创新，以大算力引领通用人工智能发展。
 1. [[⭐] https://shanjian.tv](https://shanjian.tv) **闪剪-AI数字人。** 闪剪是一款 AI 数字人视频生成工具，用户可以定制自己的数字人，只需输入文字即可生成口播视频。
 闪剪具备形象、声音克隆；链接成片以及直播切片等功能，手机端和网页端通用。
 1. [[⭐] https://soundraw.io](https://soundraw.io) **Soundraw。** 用AI制作免费的音乐
@@ -356,7 +356,7 @@
 ### AI 语音生成 (51)
 
 1. [[⭐⭐⭐] https://ai.wps.cn](https://ai.wps.cn) **WPS AI。** AI 设计助手，一键生成 PPT！WPS AI是由金山办公发布的具备大语言模型能力的人工智能应用，为用户提供智能文档写作、阅读理解和问答、智能人机交互的能力。
-1. [[⭐⭐] https://ttsmaker.cn](https://ttsmaker.cn) **TTSMaker马克配音。** 免费的在线文本转语音神器
+1. [[⭐⭐] https://ttsmaker.cn](https://ttsmaker.cn) **TTSMaker马克配音。** 免费的在线文本转语音神器 `[error][-1]timeout`
 1. [[⭐] https://ace-studio.timedomain.cn](https://ace-studio.timedomain.cn) **ACE Studio。** ACE Studio 是时域科技旗下的 AI 歌声合成引擎，通过毫无妥协的高表现力人声，解除演唱能力的羁绊，释放人们的音乐想象力。ACE Studio 编辑器软件提供 Windows 客户端版本与 macOS 客户端版本，编辑器 UI 界面简便易操作，您可以轻松地选择 AI 歌手、创建音轨、导入 MIDI，在钢琴卷帘上新建音符、绘制 pitch，在调参面板调整 AI 参数，通过云渲染获得高质量、高可调性的 AI 歌声合成结果。ACE 歌声合成引擎的强大性能，使得虚拟歌手可以真正进入专业音乐生产领域，服务于广大音乐创作者。
 1. [[⭐] https://app.deepbrain.io/dashboard](https://app.deepbrain.io/dashboard) **DeepBrain AI。** AI Studios提供了一个用户友好的仪表板，让用户可以轻松创建和管理AI项目。该平台可能包含多种AI工具和功能，以支持用户在图像、视频、音频等领域的创作和编辑。
 1. [[⭐] https://audionotes.ai](https://audionotes.ai) **AudioNotes.ai。** AudioNotes.ai是一款利用智能AI将您的口述文字转化为有序文本摘要的应用程序，使得记笔记、头脑风暴和内容创作等活动变得更加轻松！您只需通过语音输入，即可获得清晰、有序的文字记录。此外，AudioNotes.ai还具有智能分类和标签功能，帮助您快速组织和检索笔记。该应用程序适用于各种场景，包括会议记录、学习笔记、写作草稿等。通过AudioNotes.ai，您可以更高效地记录和整理您的想法，提升工作和学习效率。
@@ -426,7 +426,7 @@
 ### AI 提示词 (19)
 
 1. [[⭐] https://catjourney.life](https://catjourney.life) **Catjourney。** 超多实用的 MJ Style Tuner风格库
-1. [[⭐] https://contentatscale.ai/ai-prompt-library](https://contentatscale.ai/ai-prompt-library) **Content at scale。** 收录最佳的ChatGPT prompt提示词 `[error][202]<html><head><link rel="icon" href="data:;"><meta http-equiv="refresh" content="0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:130.131.55.224:1786653178.082"></meta></head></html>`
+1. [[⭐] https://contentatscale.ai/ai-prompt-library](https://contentatscale.ai/ai-prompt-library) **Content at scale。** 收录最佳的ChatGPT prompt提示词 `[error][202]<html><head><link rel="icon" href="data:;"><meta http-equiv="refresh" content="0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:40.81.42.178:1786738995.928"></meta></head></html>`
 1. [[⭐] https://learningprompt.wiki](https://learningprompt.wiki) **Learning Prompt。** 提供免费的Prompt Engineering教程，包含ChatGPT和Midjourney的教程。
 1. [[⭐] https://lib.kalos.art](https://lib.kalos.art) **LIB.KALOS.ART。** 艺术风格流派参考库
 1. [[⭐] https://midlibrary.io](https://midlibrary.io) **Midlibrary。** 风格多样！实用超2000+MJ提示词资源
@@ -560,7 +560,7 @@
 1. [[⭐] https://audionotes.ai](https://audionotes.ai) **AudioNotes.ai。** AudioNotes.ai是一款利用智能AI将您的口述文字转化为有序文本摘要的应用程序，使得记笔记、头脑风暴和内容创作等活动变得更加轻松！您只需通过语音输入，即可获得清晰、有序的文字记录。此外，AudioNotes.ai还具有智能分类和标签功能，帮助您快速组织和检索笔记。该应用程序适用于各种场景，包括会议记录、学习笔记、写作草稿等。通过AudioNotes.ai，您可以更高效地记录和整理您的想法，提升工作和学习效率。
 1. [[⭐] https://bearly.ai](https://bearly.ai) **Bearly。** 英文阅读写作效率提高10倍
 1. [[⭐] https://chuangyi.taobao.com/pages/aiCopy](https://chuangyi.taobao.com/pages/aiCopy) **悉语。** 悉语智能是阿里妈妈创意中心出品的一款一键生成商品营销文案的工具。
-1. [[⭐] https://contentatscale.ai/ai-prompt-library](https://contentatscale.ai/ai-prompt-library) **Content at scale。** 收录最佳的ChatGPT prompt提示词 `[error][202]<html><head><link rel="icon" href="data:;"><meta http-equiv="refresh" content="0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:130.131.55.224:1786653178.082"></meta></head></html>`
+1. [[⭐] https://contentatscale.ai/ai-prompt-library](https://contentatscale.ai/ai-prompt-library) **Content at scale。** 收录最佳的ChatGPT prompt提示词 `[error][202]<html><head><link rel="icon" href="data:;"><meta http-equiv="refresh" content="0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:40.81.42.178:1786738995.928"></meta></head></html>`
 1. [[⭐] https://cp.baidu.com](https://cp.baidu.com) **橙篇。** 百度旗下写作助手，长文生成神器
 1. [[⭐] https://effidit.qq.com](https://effidit.qq.com) **Effidit写作助手。** Effidit是由腾讯AI Lab 开发的一个智能创作助手，探索用AI技术提升写作者的写作效率和创作体验。
 1. [[⭐] https://elevenlabs.io](https://elevenlabs.io) **Eleven Labs。** ElevenLabs 带来了最逼真、丰富和生动的声音，为寻求叙事的终极工具的创作者和发布者提供了最具吸引力的文本转语音和语音克隆软件。
@@ -579,8 +579,7 @@
 1. [[⭐] https://katteb.com/en](https://katteb.com/en) **Katteb。** Katteb是最佳的AI写作工具，可进行事实核查并生成可靠的AI内容。加入超过200,000位依赖Katteb的作者！Katteb提供多达30种类型、超过110种语言的内容生成，通过引用可信赖来源的内文引文，确保内容的准确性。
 1. [[⭐] https://languagetool.org](https://languagetool.org) **Language Tool。** LanguageTool 是一款免费的英语、西班牙语和其他30种语言的语法检查和改写工具。
 1. [[⭐] https://ling.jd.com](https://ling.jd.com) **京东羚珑。** 京东羚珑是一站式内容生产与管理服务平台，提供商品主图设计、广告 banner 设计、店铺首页设计等功能。其主要优点包括丰富的模板选择、免费设计服务、高效便捷的操作流程。产品定位于为商家提供设计合作伙伴服务。
-1. [[⭐] https://littlefrog.ai](https://littlefrog.ai) **写作蛙。** 清华智谱旗下的AI写作助手 `[error][-1]write EPROTO 402D080F447F0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:918:SSL alert number 80
-`
+1. [[⭐] https://littlefrog.ai](https://littlefrog.ai) **写作蛙。** 清华智谱旗下的AI写作助手
 1. [[⭐] https://ltx.studio](https://ltx.studio) **LTX Studio。** LTX Studio是一个集成了AI技术的创新视频制作平台，它允许用户从概念到最终剪辑，全面控制视频的各个方面。该平台通过AI技术，将创意转化为连贯的视频故事，提供角色一致性、自动编辑、深度帧控制等功能，旨在简化视频制作流程，提高创作效率。
 1. [[⭐] https://magickpen.com](https://magickpen.com) **MagicPen。** 在线AI英语写作助手
 1. [[⭐] https://metaso.cn](https://metaso.cn) **秘塔AI搜索。** 秘塔科技旗下的一款AI搜索产品，能够大幅提升搜索效率，解决日常生活、工作学习等场景中遇到的各类搜索需求
@@ -763,7 +762,7 @@ Memkey的定价信息请查阅官方网站。该产品定位于提升团队的�
 1. [[⭐] https://mastergo.com/upcoming-ai/apply](https://mastergo.com/upcoming-ai/apply) **MasterGo AI。** MasterGo AI 是一款基于人工智能技术的智能助手，具有强大的功能和优势。它可以帮助用户高效处理各种任务，并提供个性化的解决方案。MasterGo AI 定价合理，并提供灵活的定位选项，适用于个人用户和企业用户。
 1. [[⭐] https://midreal.ai](https://midreal.ai) **MidReal。** MidReal是一款由AI技术驱动的互动文字冒险游戏。它具有超强的记忆力和写作能力,可以确保您的故事始终连贯一致,带给您身临其境的沉浸式体验。新特性包括多人互动、迷你游戏等,定价灵活,可免费试玩。
 1. [[⭐] https://mistral.ai](https://mistral.ai) **Mistral AI。** Mistral AI 是一家致力于构建全球最佳开源模型的研究实验室。平台让开发者和企业能够构建由 Mistral 开源和商业 LLM 提供支持的新产品和应用程序。
-1. [[⭐] https://new.imyai.top](https://new.imyai.top) **IMYAI智能助手。** IMYAI，是图欧学习资源库、图欧学习资源导航站、皮卡搜索站长、学习资源船舱船长以及B站UP主图欧君带领图欧科技团队开发的一款AI工具，于2023年5月15日上线，专为学生党、上班族以及自由职业工作者设计，支持智能问答、语音交互、绘画作图、联网搜索、实时翻译、办公编程等多种功能，是一款包括GPT、Claude、Midjourney、Gemini、Llama、Suno、Luma、可灵、文心、千问、星火、智谱、混元等在内的100+款国内外大模型，集AI文本、绘画、音乐、视频等创作服务于一体的多功能AIGC平台。
+1. [[⭐] https://new.imyai.top](https://new.imyai.top) **IMYAI智能助手。** IMYAI，是图欧学习资源库、图欧学习资源导航站、皮卡搜索站长、学习资源船舱船长以及B站UP主图欧君带领图欧科技团队开发的一款AI工具，于2023年5月15日上线，专为学生党、上班族以及自由职业工作者设计，支持智能问答、语音交互、绘画作图、联网搜索、实时翻译、办公编程等多种功能，是一款包括GPT、Claude、Midjourney、Gemini、Llama、Suno、Luma、可灵、文心、千问、星火、智谱、混元等在内的100+款国内外大模型，集AI文本、绘画、音乐、视频等创作服务于一体的多功能AIGC平台。 `[error][-1]timeout`
 1. [[⭐] https://platform.iflow.cn](https://platform.iflow.cn) **心流AI开放平台。** 已下线！提供每日 2000 次免费大模型 API 调用额度！用AI重塑研发范式，让每一位开发者体验沉浸、高效的创作流程。
 1. [[⭐] https://resoomer.com](https://resoomer.com) **Resoomer。** Résoomer 是一款用于文本摘要的软件和在线工具：它允许您通过重要概念来总结和分析您的文章。它提供了一种有效的解决方案，可以节省阅读和理解长文本的时间。 Resoomer 使用人工智能算法从文本中提取主要思想，并以简洁明了的方式呈现它们。该软件供学生、信息专业人员和研究人员用来合成文章、报告和研究论文。
 1. [[⭐] https://saasaitools.com](https://saasaitools.com) **Saasaitools。** 随时了解每日 AI 新闻和工具: Discover your next generative AI tool
@@ -820,7 +819,7 @@ Memkey的定价信息请查阅官方网站。该产品定位于提升团队的�
 1. [[⭐] https://aicolors.co](https://aicolors.co) **AIcolors。** 根据文本生成调色板，提供配色案例参考
 1. [[⭐] https://app.recraft.ai/community](https://app.recraft.ai/community) **Recraft。** 便捷的AI生成矢量图像生成工具
 1. [[⭐] https://boolpic.fun/background-remover](https://boolpic.fun/background-remover) **Toolkit。** 多功能的AI图片处理工具箱
-1. [[⭐] https://contentatscale.ai/ai-prompt-library](https://contentatscale.ai/ai-prompt-library) **Content at scale。** 收录最佳的ChatGPT prompt提示词 `[error][202]<html><head><link rel="icon" href="data:;"><meta http-equiv="refresh" content="0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:130.131.55.224:1786653178.082"></meta></head></html>`
+1. [[⭐] https://contentatscale.ai/ai-prompt-library](https://contentatscale.ai/ai-prompt-library) **Content at scale。** 收录最佳的ChatGPT prompt提示词 `[error][202]<html><head><link rel="icon" href="data:;"><meta http-equiv="refresh" content="0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:40.81.42.178:1786738995.928"></meta></head></html>`
 1. [[⭐] https://fliki.ai](https://fliki.ai) **Fliki。** 高效帮用户创建视频，具有文本转语音功能
 1. [[⭐] https://github.com/pAIrprogio/vscode-ui-sketcher](https://github.com/pAIrprogio/vscode-ui-sketcher) **UI Sketcher。** VSCode插件,借助GPT-4V的多模态能力,在插件中画出界面草图,就能生成一个基于ReactNative的UI界面
 1. [[⭐] https://github.com/tldraw/make-real](https://github.com/tldraw/make-real) **Makereal Tldraw。** 通过草图生成可交互的UI界面和代码
@@ -1232,7 +1231,7 @@ Memkey的定价信息请查阅官方网站。该产品定位于提升团队的�
 1. [[⭐] https://apps.apple.com/au/app/grok/id6670324846](https://apps.apple.com/au/app/grok/id6670324846) **Grok App。** Grok是一个由X.AI Corp开发的AI助手应用，旨在提供最真实、有用和好奇的答案。用户可以通过Grok获取任何问题的答案、生成引人注目的图像，并上传图片以更深入地了解世界。Grok以其高质量的图像生成、实时更新的数据、对话式的幽默语气和注重隐私的特性，为用户提供了一个安全、高效的AI体验平台。
 1. [[⭐] https://art.aiseo.ai](https://art.aiseo.ai) **AISEO ART。** create stunning images from text prompts using artificial intelligence. AISEO provides the best Ai art generator to bring your visual game to the next level.
 1. [[⭐] https://bgeraser.com](https://bgeraser.com) **Bg.Eraser。** 背景擦除器是一款使用AI技术快速、轻松地从照片中移除背景的工具。它能够帮助用户实现专业级的效果，增强图像的质量。背景擦除器还提供批量处理功能，节省用户大量的时间和精力。无论是用于产品照片、人像、图形、风景照片、动物照片还是物体，背景擦除器都能帮助用户实现理想的效果。
-1. [[⭐] https://bgsub.cn](https://bgsub.cn) **BgSub。** BgSub 是一个完全自动化的图像处理工具，使用先进的人工智能技术自动消除或替换图像背景。它可以智能调整颜色，所有操作都在浏览器中完成，无需上传图像。BgSub 不仅能够节省时间，还能保护用户隐私。它适用于个人用户、网站 / 应用开发者、摄影师、电子商务、媒体从业者和市场营销人员等多个场景。
+1. [[⭐] https://bgsub.cn](https://bgsub.cn) **BgSub。** BgSub 是一个完全自动化的图像处理工具，使用先进的人工智能技术自动消除或替换图像背景。它可以智能调整颜色，所有操作都在浏览器中完成，无需上传图像。BgSub 不仅能够节省时间，还能保护用户隐私。它适用于个人用户、网站 / 应用开发者、摄影师、电子商务、媒体从业者和市场营销人员等多个场景。 `[error][-1]timeout`
 1. [[⭐] https://bigjpg.com](https://bigjpg.com) **Bigjpg。** AI图片在线无损放大
 1. [[⭐] https://bing.com/create](https://bing.com/create) **Bing Image Creator。** Bing影像建立工具是一款由Microsoft Bing提供的智能搜索工具，可以帮助用户快速找到想要的图像信息，并获得奖励。
 1. [[⭐] https://boolpic.fun/background-remover](https://boolpic.fun/background-remover) **Toolkit。** 多功能的AI图片处理工具箱
