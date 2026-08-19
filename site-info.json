@@ -1150,7 +1150,7 @@
       ],
       "title": "Toolkit",
       "desc": "多功能的AI图片处理工具箱",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://booltool.boolv.tech/home": {
@@ -1970,7 +1970,7 @@
         "AI 国外工具",
         "AI 写作助手"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]timeout"
     },
     "https://copaw.agentscope.io": {
@@ -2654,7 +2654,9 @@
       ],
       "type": [
         "AI 翻译工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]read ECONNRESET"
     },
     "https://formulabot.com": {
       "title": "Excel Formula Bot",
@@ -3555,7 +3557,9 @@
       "type": [
         "AI 绘图",
         "AI 图像处理"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://imagetopromptai.com": {
       "title": "ImageToPromptAI",
@@ -6733,9 +6737,7 @@
         "AI 视频生成"
       ],
       "title": "Virbo",
-      "desc": "Virbo是一款万兴科技旗下的数字人营销视频创作神器。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "Virbo是一款万兴科技旗下的数字人营销视频创作神器。"
     },
     "https://vizard.ai": {
       "type": [
@@ -7946,9 +7948,7 @@
       ],
       "type": [
         "AI 图像处理"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.designify.com": {
       "title": "Designify",
@@ -8903,9 +8903,7 @@
         "AI 图像处理"
       ],
       "title": "标小智",
-      "desc": "标小智是一款智能LOGO在线设计生成器。只需输入品牌名称就能免费在线生成公司logo设计，商标设计，以及配套企业VI助您打造个性品牌。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "标小智是一款智能LOGO在线设计生成器。只需输入品牌名称就能免费在线生成公司logo设计，商标设计，以及配套企业VI助您打造个性品牌。"
     },
     "https://www.loom.com": {
       "type": [
@@ -9877,9 +9875,7 @@
         "agent",
         "cowork",
         "智能体"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1339:18)\n    at internalConnectMultiple (node:net:1415:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1969:"
+      ]
     },
     "https://www.storynest.ai": {
       "title": "Storynest.ai",
