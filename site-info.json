@@ -1149,7 +1149,9 @@
         "AI 绘图"
       ],
       "title": "Toolkit",
-      "desc": "多功能的AI图片处理工具箱"
+      "desc": "多功能的AI图片处理工具箱",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://booltool.boolv.tech/home": {
       "type": [
@@ -2650,9 +2652,7 @@
       ],
       "type": [
         "AI 翻译工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]read ECONNRESET"
+      ]
     },
     "https://formulabot.com": {
       "title": "Excel Formula Bot",
