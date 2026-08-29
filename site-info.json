@@ -1149,7 +1149,9 @@
         "AI 绘图"
       ],
       "title": "Toolkit",
-      "desc": "多功能的AI图片处理工具箱"
+      "desc": "多功能的AI图片处理工具箱",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://booltool.boolv.tech/home": {
       "type": [
@@ -1968,8 +1970,8 @@
         "AI 国外工具",
         "AI 写作助手"
       ],
-      "needVerify": 1,
-      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:104.209.7.34:1787889388.702\"></meta></head></html>"
+      "needVerify": 2,
+      "errmsg": "[error][-1]timeout"
     },
     "https://copaw.agentscope.io": {
       "title": "CoPaw",
@@ -3368,7 +3370,9 @@
         "AI 图像处理"
       ],
       "title": "PLUG AI",
-      "desc": "AI辅助包装设计！并对包装方案生成分析评估"
+      "desc": "AI辅助包装设计！并对包装方案生成分析评估",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://huemint.com/brand-intersection": {
       "type": [
@@ -5718,7 +5722,7 @@
       ],
       "title": "QoQo",
       "desc": "AI快速创建用户旅程地图",
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]timeout"
     },
     "https://quillbot.com": {
@@ -6733,7 +6737,9 @@
         "AI 视频生成"
       ],
       "title": "Virbo",
-      "desc": "Virbo是一款万兴科技旗下的数字人营销视频创作神器。"
+      "desc": "Virbo是一款万兴科技旗下的数字人营销视频创作神器。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://vizard.ai": {
       "type": [
@@ -8899,9 +8905,7 @@
         "AI 图像处理"
       ],
       "title": "标小智",
-      "desc": "标小智是一款智能LOGO在线设计生成器。只需输入品牌名称就能免费在线生成公司logo设计，商标设计，以及配套企业VI助您打造个性品牌。",
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
+      "desc": "标小智是一款智能LOGO在线设计生成器。只需输入品牌名称就能免费在线生成公司logo设计，商标设计，以及配套企业VI助您打造个性品牌。"
     },
     "https://www.loom.com": {
       "type": [
@@ -9139,7 +9143,9 @@
         "AI 图像处理"
       ],
       "title": "图宇宙",
-      "desc": "图宇宙是计算美学是高品质的智能设计平台，致力于让每个人都能享受好设计。"
+      "desc": "图宇宙是计算美学是高品质的智能设计平台，致力于让每个人都能享受好设计。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.notion.so": {
       "type": [
@@ -9900,9 +9906,7 @@
       ],
       "tags": [
         "AI 教程"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.sudowrite.com": {
       "title": "Sudowrite",
