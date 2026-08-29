@@ -1149,9 +1149,7 @@
         "AI 绘图"
       ],
       "title": "Toolkit",
-      "desc": "多功能的AI图片处理工具箱",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "多功能的AI图片处理工具箱"
     },
     "https://booltool.boolv.tech/home": {
       "type": [
@@ -1969,9 +1967,7 @@
         "AI 提示词",
         "AI 国外工具",
         "AI 写作助手"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://copaw.agentscope.io": {
       "title": "CoPaw",
@@ -2654,7 +2650,9 @@
       ],
       "type": [
         "AI 翻译工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]read ECONNRESET"
     },
     "https://formulabot.com": {
       "title": "Excel Formula Bot",
@@ -2734,7 +2732,9 @@
       "type": [
         "AI 文档办公",
         "AI 学习资源"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://gamma.ai": {
       "title": "Gamma.ai",
@@ -3371,7 +3371,7 @@
       ],
       "title": "PLUG AI",
       "desc": "AI辅助包装设计！并对包装方案生成分析评估",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://huemint.com/brand-intersection": {
@@ -5722,7 +5722,7 @@
       ],
       "title": "QoQo",
       "desc": "AI快速创建用户旅程地图",
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]timeout"
     },
     "https://quillbot.com": {
@@ -6737,9 +6737,7 @@
         "AI 视频生成"
       ],
       "title": "Virbo",
-      "desc": "Virbo是一款万兴科技旗下的数字人营销视频创作神器。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "Virbo是一款万兴科技旗下的数字人营销视频创作神器。"
     },
     "https://vizard.ai": {
       "type": [
@@ -9143,9 +9141,7 @@
         "AI 图像处理"
       ],
       "title": "图宇宙",
-      "desc": "图宇宙是计算美学是高品质的智能设计平台，致力于让每个人都能享受好设计。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "图宇宙是计算美学是高品质的智能设计平台，致力于让每个人都能享受好设计。"
     },
     "https://www.notion.so": {
       "type": [
