@@ -1149,7 +1149,9 @@
         "AI 绘图"
       ],
       "title": "Toolkit",
-      "desc": "多功能的AI图片处理工具箱"
+      "desc": "多功能的AI图片处理工具箱",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://booltool.boolv.tech/home": {
       "type": [
@@ -1967,7 +1969,9 @@
         "AI 提示词",
         "AI 国外工具",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:20.127.214.163:1788128166.785\"></meta></head></html>"
     },
     "https://copaw.agentscope.io": {
       "title": "CoPaw",
@@ -2650,9 +2654,7 @@
       ],
       "type": [
         "AI 翻译工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]read ECONNRESET"
+      ]
     },
     "https://formulabot.com": {
       "title": "Excel Formula Bot",
@@ -2732,9 +2734,7 @@
       "type": [
         "AI 文档办公",
         "AI 学习资源"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://gamma.ai": {
       "title": "Gamma.ai",
@@ -3370,9 +3370,7 @@
         "AI 图像处理"
       ],
       "title": "PLUG AI",
-      "desc": "AI辅助包装设计！并对包装方案生成分析评估",
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
+      "desc": "AI辅助包装设计！并对包装方案生成分析评估"
     },
     "https://huemint.com/brand-intersection": {
       "type": [
@@ -3481,7 +3479,9 @@
         "AI 写作助手"
       ],
       "title": "笔灵AI",
-      "desc": "笔灵AI是国内领先的AI写作助手与智能工具。专为提高写作效率而设计，提供免费的AI文章改写、论文辅助、商业计划书撰写等服务。"
+      "desc": "笔灵AI是国内领先的AI写作助手与智能工具。专为提高写作效率而设计，提供免费的AI文章改写、论文辅助、商业计划书撰写等服务。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1339:18)\n    at internalConnectMultiple (node:net:1415:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1969:"
     },
     "https://icons8.com/bgremover": {
       "title": "Background Remover",
@@ -5722,7 +5722,7 @@
       ],
       "title": "QoQo",
       "desc": "AI快速创建用户旅程地图",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://quillbot.com": {
@@ -6616,7 +6616,9 @@
       ],
       "star": 2,
       "title": "TTSMaker马克配音",
-      "desc": "免费的在线文本转语音神器"
+      "desc": "免费的在线文本转语音神器",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://tusiart.com": {
       "type": [
@@ -10883,7 +10885,9 @@
       "type": [
         "AI 文档办公",
         "AI 学习资源"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1339:18)\n    at internalConnectMultiple (node:net:1415:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1969:"
     },
     "https://zhumengdao.com": {
       "title": "筑梦岛",
