@@ -1967,9 +1967,7 @@
         "AI 提示词",
         "AI 国外工具",
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:135.232.208.122:1789597849.550\"></meta></head></html>"
+      ]
     },
     "https://copaw.agentscope.io": {
       "title": "CoPaw",
@@ -2080,9 +2078,7 @@
       ],
       "star": 2,
       "title": "阿里堆友",
-      "desc": "堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。",
-      "needVerify": 3,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1426:18)\n    at internalConnectMultiple (node:net:1502:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2122:"
+      "desc": "堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。"
     },
     "https://dashtoon.com": {
       "title": "Dashtoon",
@@ -3244,9 +3240,7 @@
       ],
       "type": [
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://hailuoai.com": {
       "title": "海螺AI",
@@ -4695,7 +4689,7 @@
       "type": [
         "AI 综合工具"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][444]HTTP_444"
     },
     "https://nijijourney.com/zh": {
@@ -5540,7 +5534,7 @@
       ],
       "title": "Presentory",
       "desc": "Presentory是万兴科技旗下一款使用AI创建演示文稿的产品。",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND presentory.wondershare.com"
     },
     "https://prezi.com": {
@@ -7427,9 +7421,7 @@
         "AI 编程开发"
       ],
       "title": "AskCodi",
-      "desc": "AskCodi上可以帮助你完成任何编码工作",
-      "needVerify": 2,
-      "errmsg": "[error][503]Service Unavailable"
+      "desc": "AskCodi上可以帮助你完成任何编码工作"
     },
     "https://www.augmentcode.com": {
       "title": "Augment Code",
@@ -9227,9 +9219,7 @@
         "AI 提示词"
       ],
       "title": "Ordinary Prompts",
-      "desc": "有趣ChatGPT提示词",
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
+      "desc": "有趣ChatGPT提示词"
     },
     "https://www.overleaf.com": {
       "title": "Overleaf",
@@ -10541,9 +10531,7 @@
         "AI 编程开发"
       ],
       "title": "ZelinAI",
-      "desc": "ZelinAI零代码构建你的AI应用，ZelinAI目前接入了微软合规的GPT3.5、GPT4大智能体以及文心一言、星火等国内知名的大智能体",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "ZelinAI零代码构建你的AI应用，ZelinAI目前接入了微软合规的GPT3.5、GPT4大智能体以及文心一言、星火等国内知名的大智能体"
     },
     "https://www.zeroclawlabs.ai": {
       "title": "ZeroClaw",
