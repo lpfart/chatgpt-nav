@@ -5535,7 +5535,7 @@
       ],
       "title": "Presentory",
       "desc": "Presentory是万兴科技旗下一款使用AI创建演示文稿的产品。",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND presentory.wondershare.com"
     },
     "https://prezi.com": {
@@ -6737,7 +6737,9 @@
         "AI 视频生成"
       ],
       "title": "Virbo",
-      "desc": "Virbo是一款万兴科技旗下的数字人营销视频创作神器。"
+      "desc": "Virbo是一款万兴科技旗下的数字人营销视频创作神器。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://vizard.ai": {
       "type": [
@@ -8906,9 +8908,7 @@
         "AI 图像处理"
       ],
       "title": "标小智",
-      "desc": "标小智是一款智能LOGO在线设计生成器。只需输入品牌名称就能免费在线生成公司logo设计，商标设计，以及配套企业VI助您打造个性品牌。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "标小智是一款智能LOGO在线设计生成器。只需输入品牌名称就能免费在线生成公司logo设计，商标设计，以及配套企业VI助您打造个性品牌。"
     },
     "https://www.loom.com": {
       "type": [
@@ -9883,9 +9883,7 @@
         "agent",
         "cowork",
         "智能体"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1426:18)\n    at internalConnectMultiple (node:net:1502:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2122:"
+      ]
     },
     "https://www.storynest.ai": {
       "title": "Storynest.ai",
