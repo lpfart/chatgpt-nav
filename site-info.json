@@ -1149,9 +1149,7 @@
         "AI 绘图"
       ],
       "title": "Toolkit",
-      "desc": "多功能的AI图片处理工具箱",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "多功能的AI图片处理工具箱"
     },
     "https://booltool.boolv.tech/home": {
       "type": [
@@ -1190,7 +1188,9 @@
       "type": [
         "AI 文档办公",
         "AI 学习资源"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][500]Internal Server Error"
     },
     "https://brandmark.io": {
       "type": [
@@ -2839,7 +2839,9 @@
       "type": [
         "AI 视频生成",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][500]Internal Server Error"
     },
     "https://github.com/Boese0601/MagicDance": {
       "title": "MagicDance",
@@ -3571,7 +3573,7 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND imagetopromptai.com"
     },
     "https://imagine.meta.com": {
@@ -5982,7 +5984,9 @@
       ],
       "type": [
         "AI 翻译工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][503]Service Unavailable"
     },
     "https://scalenut.com": {
       "title": "Scalenut",
@@ -6066,9 +6070,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://shangchenzhou.com/projects/CodeFormer/": {
       "title": "CodeFormer",
@@ -6744,7 +6746,9 @@
         "AI 视频生成"
       ],
       "title": "Virbo",
-      "desc": "Virbo是一款万兴科技旗下的数字人营销视频创作神器。"
+      "desc": "Virbo是一款万兴科技旗下的数字人营销视频创作神器。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://vizard.ai": {
       "type": [
@@ -7103,7 +7107,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.5118.com/ai/articlegenius": {
       "type": [
@@ -7701,7 +7707,9 @@
       ],
       "tags": [
         "IDE"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.codebuddy.cn/agents/": {
       "title": "CodeBuddy Agent",
@@ -8751,7 +8759,7 @@
       "type": [
         "AI 行业工具"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][404]Not Found"
     },
     "https://www.krea.ai/home": {
@@ -8915,7 +8923,9 @@
         "AI 图像处理"
       ],
       "title": "标小智",
-      "desc": "标小智是一款智能LOGO在线设计生成器。只需输入品牌名称就能免费在线生成公司logo设计，商标设计，以及配套企业VI助您打造个性品牌。"
+      "desc": "标小智是一款智能LOGO在线设计生成器。只需输入品牌名称就能免费在线生成公司logo设计，商标设计，以及配套企业VI助您打造个性品牌。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.loom.com": {
       "type": [
