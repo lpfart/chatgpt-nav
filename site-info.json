@@ -3366,9 +3366,7 @@
         "AI 图像处理"
       ],
       "title": "PLUG AI",
-      "desc": "AI辅助包装设计！并对包装方案生成分析评估",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "AI辅助包装设计！并对包装方案生成分析评估"
     },
     "https://huemint.com/brand-intersection": {
       "type": [
@@ -5820,9 +5818,7 @@
       "star": 2,
       "desc": "几秒钟内获得干净、专业的图片。轻松移除水印——无需 Photoshop 技能",
       "title": "iPurix - 轻松去除任何水印",
-      "needPay": 1,
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "needPay": 1
     },
     "https://removewatermark.ai": {
       "title": "WatermarkRemoverAI",
@@ -6624,7 +6620,9 @@
       ],
       "star": 2,
       "title": "TTSMaker马克配音",
-      "desc": "免费的在线文本转语音神器"
+      "desc": "免费的在线文本转语音神器",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://tusiart.com": {
       "type": [
@@ -7104,9 +7102,7 @@
       ],
       "type": [
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.5118.com/ai/articlegenius": {
       "type": [
@@ -7705,8 +7701,9 @@
       "tags": [
         "IDE"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 7,
+      "errmsg": "[error][-1]timeout",
+      "hide": 1
     },
     "https://www.codebuddy.cn/agents/": {
       "title": "CodeBuddy Agent",
@@ -8052,9 +8049,7 @@
       "desc": "万兴科技旗下的亿图脑图MindMaster软件是一款多平台思维导图软件，可用于Windows，Mac和Linux等桌面环境，也可以在线使用或在苹果，安卓等移动端上使用。",
       "type": [
         "AI 思维导图"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.elegantresume.pro": {
       "title": "优雅简历",
