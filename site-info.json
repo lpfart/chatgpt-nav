@@ -1149,7 +1149,9 @@
         "AI 绘图"
       ],
       "title": "Toolkit",
-      "desc": "多功能的AI图片处理工具箱"
+      "desc": "多功能的AI图片处理工具箱",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://booltool.boolv.tech/home": {
       "type": [
@@ -6620,7 +6622,9 @@
       ],
       "star": 2,
       "title": "TTSMaker马克配音",
-      "desc": "免费的在线文本转语音神器"
+      "desc": "免费的在线文本转语音神器",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://tusiart.com": {
       "type": [
@@ -6741,7 +6745,9 @@
         "AI 视频生成"
       ],
       "title": "Virbo",
-      "desc": "Virbo是一款万兴科技旗下的数字人营销视频创作神器。"
+      "desc": "Virbo是一款万兴科技旗下的数字人营销视频创作神器。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://vizard.ai": {
       "type": [
