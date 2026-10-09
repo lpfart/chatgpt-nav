@@ -1150,7 +1150,7 @@
       ],
       "title": "Toolkit",
       "desc": "多功能的AI图片处理工具箱",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://booltool.boolv.tech/home": {
@@ -6202,7 +6202,9 @@
         "AI 学习资源"
       ],
       "title": "司马阅AI文档",
-      "desc": "司马阅(SmartRead)，是一款AI文档阅读分析工具，通过聊天互动形式，精准地从复杂文档提取并分析信息，极大节省文档阅读和检索时间及便捷获取创新灵感，高效应用于工作、学习场景，如读行业市场报告、产品手册、法律文档、论文文献、电子书等。"
+      "desc": "司马阅(SmartRead)，是一款AI文档阅读分析工具，通过聊天互动形式，精准地从复杂文档提取并分析信息，极大节省文档阅读和检索时间及便捷获取创新灵感，高效应用于工作、学习场景，如读行业市场报告、产品手册、法律文档、论文文献、电子书等。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://smodin.io/zh-cn": {
       "type": [
@@ -6622,9 +6624,7 @@
       ],
       "star": 2,
       "title": "TTSMaker马克配音",
-      "desc": "免费的在线文本转语音神器",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "免费的在线文本转语音神器"
     },
     "https://tusiart.com": {
       "type": [
@@ -6746,7 +6746,7 @@
       ],
       "title": "Virbo",
       "desc": "Virbo是一款万兴科技旗下的数字人营销视频创作神器。",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://vizard.ai": {
