@@ -1150,7 +1150,7 @@
       ],
       "title": "Toolkit",
       "desc": "多功能的AI图片处理工具箱",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]timeout"
     },
     "https://booltool.boolv.tech/home": {
@@ -1906,9 +1906,7 @@
       ],
       "type": [
         "AI 编程开发"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1430:18)\n    at internalConnectMultiple (node:net:1506:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2126:"
+      ]
     },
     "https://colossyan.com": {
       "title": "Colossyan Creator",
@@ -2083,8 +2081,8 @@
       "star": 2,
       "title": "阿里堆友",
       "desc": "堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1430:18)\n    at internalConnectMultiple (node:net:1506:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2126:"
+      "needVerify": 2,
+      "errmsg": "[error][-1]timeout"
     },
     "https://dashtoon.com": {
       "title": "Dashtoon",
@@ -6626,7 +6624,9 @@
       ],
       "star": 2,
       "title": "TTSMaker马克配音",
-      "desc": "免费的在线文本转语音神器"
+      "desc": "免费的在线文本转语音神器",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://tusiart.com": {
       "type": [
@@ -7465,9 +7465,7 @@
         "国产大模型"
       ],
       "title": "百川智能",
-      "desc": "百川智能旗下的AI对话助手",
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1430:18)\n    at internalConnectMultiple (node:net:1506:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2126:"
+      "desc": "百川智能旗下的AI对话助手"
     },
     "https://www.beatoven.ai": {
       "title": "Beatoven.ai",
@@ -8905,9 +8903,7 @@
         "AI 图像处理"
       ],
       "title": "标小智",
-      "desc": "标小智是一款智能LOGO在线设计生成器。只需输入品牌名称就能免费在线生成公司logo设计，商标设计，以及配套企业VI助您打造个性品牌。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "标小智是一款智能LOGO在线设计生成器。只需输入品牌名称就能免费在线生成公司logo设计，商标设计，以及配套企业VI助您打造个性品牌。"
     },
     "https://www.loom.com": {
       "type": [
@@ -9868,9 +9864,7 @@
         "大厂合集",
         "智能体",
         "API"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1430:18)\n    at internalConnectMultiple (node:net:1506:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2126:"
+      ]
     },
     "https://www.stepfun.com/download": {
       "title": "阶跃AI Desktop",
@@ -9884,9 +9878,7 @@
         "agent",
         "cowork",
         "智能体"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1430:18)\n    at internalConnectMultiple (node:net:1506:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2126:"
+      ]
     },
     "https://www.storynest.ai": {
       "title": "Storynest.ai",
@@ -10283,9 +10275,7 @@
         "AI 图像处理"
       ],
       "title": "美图WHEE",
-      "desc": "WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1430:18)\n    at internalConnectMultiple (node:net:1506:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2126:"
+      "desc": "WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。"
     },
     "https://www.wix.com/logo/maker": {
       "title": "Wix Logo Maker",
@@ -10806,9 +10796,7 @@
         "AI 绘图"
       ],
       "title": "美图云修",
-      "desc": "商业级AI影像处理工具",
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1430:18)\n    at internalConnectMultiple (node:net:1506:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2126:"
+      "desc": "商业级AI影像处理工具"
     },
     "https://z.ai": {
       "title": "Z.ai",
@@ -10898,9 +10886,7 @@
       "type": [
         "AI 文档办公",
         "AI 学习资源"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1430:18)\n    at internalConnectMultiple (node:net:1506:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2126:"
+      ]
     },
     "https://zhumengdao.com": {
       "title": "筑梦岛",
