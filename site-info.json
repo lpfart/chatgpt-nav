@@ -934,9 +934,7 @@
         "AI 视频生成"
       ],
       "title": "Audo Studio",
-      "desc": "听起来很棒！AI一键清除音频背景杂音",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "听起来很棒！AI一键清除音频背景杂音"
     },
     "https://autoglm.zhipuai.cn": {
       "title": "AutoGLM",
@@ -1152,7 +1150,7 @@
       ],
       "title": "Toolkit",
       "desc": "多功能的AI图片处理工具箱",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://booltool.boolv.tech/home": {
@@ -1908,7 +1906,9 @@
       ],
       "type": [
         "AI 编程开发"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1492:18)\n    at internalConnectMultiple (node:net:1568:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2188:"
     },
     "https://colossyan.com": {
       "title": "Colossyan Creator",
@@ -1972,8 +1972,8 @@
         "AI 国外工具",
         "AI 写作助手"
       ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]socket hang up"
+      "needVerify": 2,
+      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:172.203.196.180:1792536657.348\"></meta></head></html>"
     },
     "https://copaw.agentscope.io": {
       "title": "CoPaw",
@@ -2084,7 +2084,9 @@
       ],
       "star": 2,
       "title": "阿里堆友",
-      "desc": "堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。"
+      "desc": "堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1492:18)\n    at internalConnectMultiple (node:net:1568:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2188:"
     },
     "https://dashtoon.com": {
       "title": "Dashtoon",
@@ -2632,9 +2634,7 @@
       "type": [
         "AI 视频生成",
         "AI 国外工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://flowgpt.com": {
       "title": "Flowgpt",
@@ -4143,9 +4143,7 @@
       ],
       "type": [
         "AI 图像处理"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://logodiffusion.com": {
       "title": "Logo Diffusion",
@@ -4192,9 +4190,7 @@
       ],
       "type": [
         "AI 图像处理"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://logomaster.ai": {
       "title": "Logomaster",
@@ -4209,9 +4205,7 @@
       ],
       "type": [
         "AI 图像处理"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://logomaster.ai/de": {
       "title": "Logomaster",
@@ -4226,9 +4220,7 @@
       ],
       "type": [
         "AI 图像处理"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://longcat.chat": {
       "title": "美团LongCat API开放平台",
@@ -4244,9 +4236,7 @@
         "API开放平台",
         "FREEAPI",
         "API"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://looka.com": {
       "title": "Looka",
@@ -4278,9 +4268,7 @@
       "type": [
         "AI 视频生成",
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://ludo.ai": {
       "type": [
@@ -6640,9 +6628,7 @@
       ],
       "star": 2,
       "title": "TTSMaker马克配音",
-      "desc": "免费的在线文本转语音神器",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "免费的在线文本转语音神器"
     },
     "https://tusiart.com": {
       "type": [
@@ -7122,7 +7108,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][502]Bad Gateway"
     },
     "https://www.5118.com/ai/articlegenius": {
       "type": [
@@ -7481,7 +7469,9 @@
         "国产大模型"
       ],
       "title": "百川智能",
-      "desc": "百川智能旗下的AI对话助手"
+      "desc": "百川智能旗下的AI对话助手",
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1492:18)\n    at internalConnectMultiple (node:net:1568:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2188:"
     },
     "https://www.beatoven.ai": {
       "title": "Beatoven.ai",
@@ -8070,7 +8060,7 @@
       "type": [
         "AI 思维导图"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.elegantresume.pro": {
@@ -9405,7 +9395,7 @@
       ],
       "title": "Ponzu",
       "desc": "AI生成3D无缝贴图纹理",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.ponzu.gg"
     },
     "https://www.powerfulai.tools": {
@@ -9898,7 +9888,9 @@
         "agent",
         "cowork",
         "智能体"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1492:18)\n    at internalConnectMultiple (node:net:1568:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2188:"
     },
     "https://www.storynest.ai": {
       "title": "Storynest.ai",
@@ -10295,7 +10287,9 @@
         "AI 图像处理"
       ],
       "title": "美图WHEE",
-      "desc": "WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。"
+      "desc": "WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1492:18)\n    at internalConnectMultiple (node:net:1568:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2188:"
     },
     "https://www.wix.com/logo/maker": {
       "title": "Wix Logo Maker",
@@ -10816,7 +10810,9 @@
         "AI 绘图"
       ],
       "title": "美图云修",
-      "desc": "商业级AI影像处理工具"
+      "desc": "商业级AI影像处理工具",
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1492:18)\n    at internalConnectMultiple (node:net:1568:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2188:"
     },
     "https://z.ai": {
       "title": "Z.ai",
