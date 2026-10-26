@@ -1535,9 +1535,7 @@
       "type": [
         "AI 文档办公",
         "AI 学习资源"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1430:18)\n    at internalConnectMultiple (node:net:1506:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2126:"
+      ]
     },
     "https://chatexcel.com": {
       "title": "酷表ChatExcel",
@@ -1969,9 +1967,7 @@
         "AI 提示词",
         "AI 国外工具",
         "AI 写作助手"
-      ],
-      "needVerify": 3,
-      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:20.109.38.163:1792966292.257\"></meta></head></html>"
+      ]
     },
     "https://copaw.agentscope.io": {
       "title": "CoPaw",
@@ -2437,7 +2433,7 @@
       "type": [
         "AI 行业工具"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1430:18)\n    at internalConnectMultiple (node:net:1506:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2126:"
     },
     "https://ezprompt.org": {
@@ -6627,7 +6623,7 @@
       "star": 2,
       "title": "TTSMaker马克配音",
       "desc": "免费的在线文本转语音神器",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://tusiart.com": {
@@ -7108,16 +7104,16 @@
       ],
       "type": [
         "AI 写作助手"
-      ],
-      "needVerify": 3,
-      "errmsg": "[error][502]Bad Gateway"
+      ]
     },
     "https://www.5118.com/ai/articlegenius": {
       "type": [
         "AI 写作助手"
       ],
       "title": "5118 SEO优化精灵",
-      "desc": "一键式生成高质量SEO文章"
+      "desc": "一键式生成高质量SEO文章",
+      "needVerify": 1,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.5118.com"
     },
     "https://www.52cv.com": {
       "title": "职徒简历",
@@ -9871,9 +9867,7 @@
         "大厂合集",
         "智能体",
         "API"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1430:18)\n    at internalConnectMultiple (node:net:1506:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2126:"
+      ]
     },
     "https://www.stepfun.com/download": {
       "title": "阶跃AI Desktop",
@@ -9887,9 +9881,7 @@
         "agent",
         "cowork",
         "智能体"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1430:18)\n    at internalConnectMultiple (node:net:1506:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2126:"
+      ]
     },
     "https://www.storynest.ai": {
       "title": "Storynest.ai",
@@ -10402,9 +10394,7 @@
       ],
       "type": [
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.xingyeai.com": {
       "type": [
@@ -10899,9 +10889,7 @@
       "type": [
         "AI 文档办公",
         "AI 学习资源"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1430:18)\n    at internalConnectMultiple (node:net:1506:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2126:"
+      ]
     },
     "https://zhumengdao.com": {
       "title": "筑梦岛",
