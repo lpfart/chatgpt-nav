@@ -2433,8 +2433,9 @@
       "type": [
         "AI 行业工具"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1430:18)\n    at internalConnectMultiple (node:net:1506:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2126:"
+      "needVerify": 7,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1430:18)\n    at internalConnectMultiple (node:net:1506:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2126:",
+      "hide": 1
     },
     "https://ezprompt.org": {
       "title": "EzPrompt AI",
@@ -3302,7 +3303,9 @@
       "title": "Hermes Agent中文文档",
       "star": 3,
       "sort": -80,
-      "desc": "基于 Hermes Agent 英文文档网站同步翻译的在线中文文档网站"
+      "desc": "基于 Hermes Agent 英文文档网站同步翻译的在线中文文档网站",
+      "needVerify": 1,
+      "errmsg": "[error][-1]connect ECONNREFUSED 103.242.13.60:443"
     },
     "https://hiwaifu.com": {
       "type": [
@@ -4040,7 +4043,9 @@
       "tags": [
         "艺术",
         "风格库"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][530]<none>"
     },
     "https://ling.jd.com": {
       "title": "京东羚珑",
@@ -6052,7 +6057,9 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://senseavatar.sensetime.com": {
       "title": "商汤如影",
@@ -6623,7 +6630,7 @@
       "star": 2,
       "title": "TTSMaker马克配音",
       "desc": "免费的在线文本转语音神器",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]timeout"
     },
     "https://tusiart.com": {
@@ -7111,9 +7118,7 @@
         "AI 写作助手"
       ],
       "title": "5118 SEO优化精灵",
-      "desc": "一键式生成高质量SEO文章",
-      "needVerify": 1,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.5118.com"
+      "desc": "一键式生成高质量SEO文章"
     },
     "https://www.52cv.com": {
       "title": "职徒简历",
@@ -9828,7 +9833,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.squibler.io": {
       "title": "Squibler",
