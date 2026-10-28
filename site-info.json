@@ -1149,7 +1149,9 @@
         "AI 绘图"
       ],
       "title": "Toolkit",
-      "desc": "多功能的AI图片处理工具箱"
+      "desc": "多功能的AI图片处理工具箱",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://booltool.boolv.tech/home": {
       "type": [
@@ -1967,7 +1969,9 @@
         "AI 提示词",
         "AI 国外工具",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:172.182.213.3:1793231113.591\"></meta></head></html>"
     },
     "https://copaw.agentscope.io": {
       "title": "CoPaw",
@@ -3303,9 +3307,7 @@
       "title": "Hermes Agent中文文档",
       "star": 3,
       "sort": -80,
-      "desc": "基于 Hermes Agent 英文文档网站同步翻译的在线中文文档网站",
-      "needVerify": 1,
-      "errmsg": "[error][-1]connect ECONNREFUSED 103.242.13.60:443"
+      "desc": "基于 Hermes Agent 英文文档网站同步翻译的在线中文文档网站"
     },
     "https://hiwaifu.com": {
       "type": [
@@ -4044,7 +4046,7 @@
         "艺术",
         "风格库"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][530]<none>"
     },
     "https://ling.jd.com": {
@@ -6057,9 +6059,7 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://senseavatar.sensetime.com": {
       "title": "商汤如影",
@@ -6629,9 +6629,7 @@
       ],
       "star": 2,
       "title": "TTSMaker马克配音",
-      "desc": "免费的在线文本转语音神器",
-      "needVerify": 3,
-      "errmsg": "[error][-1]timeout"
+      "desc": "免费的在线文本转语音神器"
     },
     "https://tusiart.com": {
       "type": [
@@ -7111,7 +7109,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][502]Bad Gateway"
     },
     "https://www.5118.com/ai/articlegenius": {
       "type": [
@@ -9833,9 +9833,7 @@
       ],
       "type": [
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.squibler.io": {
       "title": "Squibler",
@@ -9915,7 +9913,9 @@
       ],
       "tags": [
         "AI 教程"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.sudowrite.com": {
       "title": "Sudowrite",
