@@ -1149,9 +1149,7 @@
         "AI 绘图"
       ],
       "title": "Toolkit",
-      "desc": "多功能的AI图片处理工具箱",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "多功能的AI图片处理工具箱"
     },
     "https://booltool.boolv.tech/home": {
       "type": [
@@ -1537,7 +1535,9 @@
       "type": [
         "AI 文档办公",
         "AI 学习资源"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1492:18)\n    at internalConnectMultiple (node:net:1568:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2188:"
     },
     "https://chatexcel.com": {
       "title": "酷表ChatExcel",
@@ -1969,9 +1969,7 @@
         "AI 提示词",
         "AI 国外工具",
         "AI 写作助手"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][-1]socket hang up"
+      ]
     },
     "https://copaw.agentscope.io": {
       "title": "CoPaw",
@@ -7110,7 +7108,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][502]Bad Gateway"
     },
     "https://www.5118.com/ai/articlegenius": {
       "type": [
@@ -8907,9 +8907,7 @@
         "AI 图像处理"
       ],
       "title": "标小智",
-      "desc": "标小智是一款智能LOGO在线设计生成器。只需输入品牌名称就能免费在线生成公司logo设计，商标设计，以及配套企业VI助您打造个性品牌。",
-      "needVerify": 1,
-      "errmsg": "[error][200]<div style=\"position:absolute;overflow:hidden;height:0;width:0;\">\n  <a href=\"/article/details/221518614862.html\">ObVj</a>\n  <a href=\"/article/details/977636168098.html\">DkyzGso</a>\n  <a hr"
+      "desc": "标小智是一款智能LOGO在线设计生成器。只需输入品牌名称就能免费在线生成公司logo设计，商标设计，以及配套企业VI助您打造个性品牌。"
     },
     "https://www.loom.com": {
       "type": [
@@ -9873,7 +9871,9 @@
         "大厂合集",
         "智能体",
         "API"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1492:18)\n    at internalConnectMultiple (node:net:1568:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2188:"
     },
     "https://www.stepfun.com/download": {
       "title": "阶跃AI Desktop",
@@ -9887,7 +9887,9 @@
         "agent",
         "cowork",
         "智能体"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1492:18)\n    at internalConnectMultiple (node:net:1568:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2188:"
     },
     "https://www.storynest.ai": {
       "title": "Storynest.ai",
@@ -10403,7 +10405,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.xingyeai.com": {
       "type": [
