@@ -1535,9 +1535,7 @@
       "type": [
         "AI 文档办公",
         "AI 学习资源"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1492:18)\n    at internalConnectMultiple (node:net:1568:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2188:"
+      ]
     },
     "https://chatexcel.com": {
       "title": "酷表ChatExcel",
@@ -7108,9 +7106,7 @@
       ],
       "type": [
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][502]Bad Gateway"
+      ]
     },
     "https://www.5118.com/ai/articlegenius": {
       "type": [
@@ -8057,7 +8053,9 @@
       "desc": "万兴科技旗下的亿图脑图MindMaster软件是一款多平台思维导图软件，可用于Windows，Mac和Linux等桌面环境，也可以在线使用或在苹果，安卓等移动端上使用。",
       "type": [
         "AI 思维导图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.elegantresume.pro": {
       "title": "优雅简历",
@@ -9871,9 +9869,7 @@
         "大厂合集",
         "智能体",
         "API"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1492:18)\n    at internalConnectMultiple (node:net:1568:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2188:"
+      ]
     },
     "https://www.stepfun.com/download": {
       "title": "阶跃AI Desktop",
@@ -9887,9 +9883,7 @@
         "agent",
         "cowork",
         "智能体"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1492:18)\n    at internalConnectMultiple (node:net:1568:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2188:"
+      ]
     },
     "https://www.storynest.ai": {
       "title": "Storynest.ai",
@@ -10405,9 +10399,7 @@
       ],
       "type": [
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.xingyeai.com": {
       "type": [
@@ -10779,7 +10771,9 @@
       "type": [
         "AI 视频生成",
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://yuanbao.tencent.com": {
       "title": "腾讯元宝",

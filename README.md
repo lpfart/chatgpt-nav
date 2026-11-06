@@ -66,10 +66,7 @@
 1. [[⭐⭐⭐] https://www.doubao.com/chat/](https://www.doubao.com/chat/) **豆包Chat。** 基于字节跳动研发的云雀大语言模型的Chat应用
 1. [[⭐⭐⭐🧑‍💻] https://www.qiniu.com/ai/promotion/invited?cps_key=1h8fh294ny15e](https://www.qiniu.com/ai/promotion/invited?cps_key=1h8fh294ny15e) **七牛云。** 邀请注册多送1000万Token！提供Claude4.1 opus、Grok 4 Fast、Gemini、Kimi、Deepseek 等超全的当前国内外流行大模型 API 调用服务。
 1. [[⭐⭐⭐] https://www.sensenova.cn/token-plan](https://www.sensenova.cn/token-plan) **商汤日日新Token Plan。** 商汤SenseNova Token Plan公测阶段免费使用！精选模型与用量方案，支持 Hermes Agent、OpenClaw 与 Cowork-Skills 办公场景。
-1. [[⭐⭐⭐🧑‍💻] https://www.stepfun.com](https://www.stepfun.com) **阶跃AI。** 阶跃AI是阶跃星辰推出的一个聪明可靠的个人效率助手，可以帮你获取知识、查询信息、学习语言、创意写作、编写代码，在工作、学习、生活等各种场景下帮你解决问题。带你发现和理解世界 `[error][-1]AggregateError [ETIMEDOUT]: 
-    at internalConnectMultiple (node:net:1492:18)
-    at internalConnectMultiple (node:net:1568:5)
-    at Timeout.internalConnectMultipleTimeout (node:net:2188:`
+1. [[⭐⭐⭐🧑‍💻] https://www.stepfun.com](https://www.stepfun.com) **阶跃AI。** 阶跃AI是阶跃星辰推出的一个聪明可靠的个人效率助手，可以帮你获取知识、查询信息、学习语言、创意写作、编写代码，在工作、学习、生活等各种场景下帮你解决问题。带你发现和理解世界
 1. [[⭐⭐⭐] https://www.tongyi.com](https://www.tongyi.com) **通义千问。** 阿里达摩院提供的一个不断进化的AI大模型
 1. [[⭐⭐⭐] https://xiaoyi.huawei.com/chat/](https://xiaoyi.huawei.com/chat/) **小艺。** 小艺是华为推出的智能助手，集成了自然语言处理和机器学习技术，能够提供聊天、写作、编程、翻译等多种功能。它基于深度学习模型，能够理解用户的问题并给出准确的回答。小艺的主要优点是功能丰富、响应速度快、智能化程度高。作为华为生态的一部分，小艺致力于为用户提供便捷的智能服务，提升用户体验。
 1. [[⭐⭐⭐🧑‍💻] https://xinghuo.xfyun.cn](https://xinghuo.xfyun.cn) **讯飞星火。** 讯飞星火大模型
@@ -328,7 +325,7 @@
 1. [[⭐] https://www.unscreen.com](https://www.unscreen.com) **Unscreen。** 智能AI去除视频背景在线神器
 1. [[⭐] https://www.vidu.studio](https://www.vidu.studio) **Vidu。** Vidu 是一个创新的 AI 视频生成模型，能够根据用户提供的文本或图片快速生成高质量的视频内容。它的技术基于深度学习，能够理解并分析输入信息，从而创造出富有创意和视觉吸引力的视频。随着视频内容在各类平台上的流行，Vidu 以其便捷性和高效性，成为了内容创作者和市场营销人员的得力助手。该产品适用于个人和企业用户，旨在帮助他们提升内容制作的效率，且目前提供免费试用以吸引更多用户尝试其强大的功能。
 1. [[⭐] https://www.yinziai.com](https://www.yinziai.com) **音子 AI。** 音子 AI 是一款在线音轨分离解决方案，用户可上传音频或视频文件，立即获取独立的人声和伴奏文件。该产品基于人工智能技术，提供高效的音轨提取功能。
-1. [[⭐] https://youyan.xyz/platform/home/prime](https://youyan.xyz/platform/home/prime) **有言。** 一站式AI视频创作，1200+免费3D数字人
+1. [[⭐] https://youyan.xyz/platform/home/prime](https://youyan.xyz/platform/home/prime) **有言。** 一站式AI视频创作，1200+免费3D数字人 `[error][-1]timeout`
 1. [[⭐] https://zeemo.ai/cn](https://zeemo.ai/cn) **绘影字幕。** 绘影字幕的AI 字幕准确率高达98%，能让字幕创建变得前所未有的简单。您可以用绘影字幕的自动化流程取代手动转录，为内容创作者、电影制作人或任何需要字幕的人节省时间。
 1. [[⭐] https://zenvideo.qq.com](https://zenvideo.qq.com) **腾讯智影。** 腾讯出品的融合多种AIGC能力进行智能视频创作的一体化工具。
 1. [[⭐] https://zh.rask.ai](https://zh.rask.ai) **Rask。** 领先的AI视频本地化和配音工具
@@ -598,7 +595,7 @@
 1. [[⭐] https://wordvice.ai/cn](https://wordvice.ai/cn) **Wordvice AI。** Wordvice AI是一款在线英语语法检查工具，提供实时高效的英语语法和拼写检查，突破基本功能，提供语气风格修改，提供有效反馈建议，适用于各类英文文件。Wordvice AI还提供人工编辑服务和其他英文写作工具。
 1. [[⭐] https://write.thisonegpt.com](https://write.thisonegpt.com) **神笔AI写作。** 神笔AI写作平台提供了一个简化的四步写作流程，帮助用户从输入论文题目到生成全文。它支持多种学科领域的论文写作，包括哲学、经济学、法学等，旨在帮助大学生高效完成论文。
 1. [[⭐] https://writebot.io](https://writebot.io) **WriteBot。** WriteBot是一个AI辅助写作工具，旨在帮助用户快速生成独特、符合SEO标准的内容。不需要月费订阅，采用按需付费的定价模式。这个工具特别适合生产博客文章、Facebook广告、产品描述等，带有关键词和SEO优化功能，提高内容创作的效率和质量。
-1. [[⭐] https://wukong.com/tool](https://wukong.com/tool) **小悟空AI。** 小悟空是一个集成了多种智能工具的网站，旨在提高个人和团队的创作效率和运营效果。它通过提供诸如文章生成、视频脚本创作、笔记创作等多样化功能，满足不同用户在内容创作、个人表达、学习教育等方面的需求。产品背景基于人工智能技术，结合大数据分析，为用户提供个性化、高质量的服务。价格定位为免费试用，部分功能付费，以适应不同用户的需求。 `[error][502]Bad Gateway`
+1. [[⭐] https://wukong.com/tool](https://wukong.com/tool) **小悟空AI。** 小悟空是一个集成了多种智能工具的网站，旨在提高个人和团队的创作效率和运营效果。它通过提供诸如文章生成、视频脚本创作、笔记创作等多样化功能，满足不同用户在内容创作、个人表达、学习教育等方面的需求。产品背景基于人工智能技术，结合大数据分析，为用户提供个性化、高质量的服务。价格定位为免费试用，部分功能付费，以适应不同用户的需求。
 1. [[⭐] https://www.5118.com/ai/articlegenius](https://www.5118.com/ai/articlegenius) **5118 SEO优化精灵。** 一键式生成高质量SEO文章
 1. [[⭐] https://www.aiprm.com](https://www.aiprm.com) **AIPRM。** AIPRM 是一个 AI Prompt 市场和社区驱动的 Prompt 库。使用它可以在几分钟内完成营销、销售、运营、生产力和客户支持等任务。提供了 ChatGPT、Bard、Midjourney 和 DALL-E 2 的即用型 Prompts。可以轻松创建博客标题、完整的原创文章、服务页面的文案等。AIPRM 可以帮助您以您的声音快速、有创意地创建内容。
 1. [[⭐] https://www.creatifyone.com](https://www.creatifyone.com) **创一AI。** 创一AI是一款专业的AI短视频脚本创作工具，旨在通过人工智能技术帮助用户快速生成高质量的短视频脚本。该产品利用先进的自然语言处理技术，结合用户需求，能够自动分析并创作出符合主题的脚本内容，大大提高了视频创作者的工作效率。创一深入理解以及对用户需求的精准把握，价格定位为免费体验，以吸引更多用户使用。
@@ -626,7 +623,7 @@
 1. [[⭐] https://www.wenxiaobai.com](https://www.wenxiaobai.com) **问小白。** 问小白上线了DeepSeek驱动的人工智能助手，定位为一款强大的写作和任务处理工具。它基于深度学习技术，能够实时在线提供服务，支持深度思考和联网搜索功能。其主要优点包括免费不限次数使用，可帮助用户高效完成写作、创作、分析和规划等任务。产品面向需要高效完成各类文字工作和任务的用户，目前以网页形式提供服务，未来可能推出更多客户端形式。其免费的定位使其具有较高的性价比，适合广泛用户群体使用。
 1. [[⭐] https://www.xiaomengai.com](https://www.xiaomengai.com) **彩云小梦尝鲜版。** 彩云小梦尝鲜版是一款 AI 辅助创作工具，能够生成平行世界故事情节，帮助用户创作各种虚拟故事。具有智能推荐、故事设定、人物塑造等功能，用户可以通过与 AI 对话获得创作灵感。
 1. [[⭐] https://www.xiezuocat.com](https://www.xiezuocat.com) **秘塔写作猫。** 基于GPT的中文写作工具
-1. [[⭐] https://www.ximalaya.com/gatekeeper/write-wise-web](https://www.ximalaya.com/gatekeeper/write-wise-web) **WriteWise。** WriteWise 是一款强大的写作助手工具，帮助用户提升写作效率和质量。它提供智能推荐和编辑功能，可以快速生成高质量的文章和内容。 WriteWise 还提供语法检查、词汇替换、段落重组等功能，帮助用户改进文章结构和表达方式。该产品定价灵活，适用于个人写作、商务写作等不同领域。 `[error][-1]timeout`
+1. [[⭐] https://www.ximalaya.com/gatekeeper/write-wise-web](https://www.ximalaya.com/gatekeeper/write-wise-web) **WriteWise。** WriteWise 是一款强大的写作助手工具，帮助用户提升写作效率和质量。它提供智能推荐和编辑功能，可以快速生成高质量的文章和内容。 WriteWise 还提供语法检查、词汇替换、段落重组等功能，帮助用户改进文章结构和表达方式。该产品定价灵活，适用于个人写作、商务写作等不同领域。
 1. [[⭐] https://www.yanbiai.com](https://www.yanbiai.com) **言笔AI。** 言笔AI是一款基于AI大模型驱动的智能写作工具，支持多种写作场景，如文章创作、论文写作、PPT制作及公文撰写等。它通过提供免费的AI写作服务，帮助用户快速生成高质量的内容，避免重复内容，提升文案效果。言笔AI已为10,000+创作者提供服务，成功生成288,736,788字文案，具有高用户评价，值得信赖。
 1. [[⭐] https://xiezuocat.com](https://xiezuocat.com) **秘塔写作猫。** 写作猫是新一代交互式中英文写作辅助平台，集智能文本纠错、改写润色、自动续写、智能配图为一体。
 1. [[⭐] https://zuojia.baidu.com](https://zuojia.baidu.com) **百度作家平台。** 百度作家平台是一个AI智能创作工具，提供多种功能，包括AI助手、对话有问必答、AI续写等。用户可以使用该平台进行写作创作，包括小说设定、润色、角色起名等。平台还提供作品管理、收益分析等功能。百度作家平台适用于想要提升写作效率和创作质量的作者。
@@ -647,7 +644,7 @@
 1. [[⭐] https://static.app.yinxiang.com/evermind/product/login](https://static.app.yinxiang.com/evermind/product/login) **印象图记。** 印象图记是一个在线思维导图工具与流程图工具，由印象笔记出品。它提供简洁易用的界面、实用主题和丰富图标，支持自由布局、分享导出和云端存储。这个工具旨在帮助用户提高工作和生活效率。
 1. [[⭐] https://whimsical.com](https://whimsical.com) **Whimsical。** Whimsical是一个集图表、白板等多种功能于一体的视觉协作平台。用户可以使用Whimsical创建流程图、线框图、思维导图和文档，快速将想法变为现实。它可以帮助团队成员更好地协作，从而更快地构建出更好的产品。Whimsical还可以与Jira、GitHub、Notion、Figma和Slack等常用工具集成，提高工作效率。
 1. [[⭐] https://www.ayoa.com/ultimate/](https://www.ayoa.com/ultimate/) **Ayoa Ultimate。** AI驱动的思维导图和生产力工具
-1. [[⭐] https://www.edrawsoft.cn/mindmaster](https://www.edrawsoft.cn/mindmaster) **亿图脑图。** 万兴科技旗下的亿图脑图MindMaster软件是一款多平台思维导图软件，可用于Windows，Mac和Linux等桌面环境，也可以在线使用或在苹果，安卓等移动端上使用。
+1. [[⭐] https://www.edrawsoft.cn/mindmaster](https://www.edrawsoft.cn/mindmaster) **亿图脑图。** 万兴科技旗下的亿图脑图MindMaster软件是一款多平台思维导图软件，可用于Windows，Mac和Linux等桌面环境，也可以在线使用或在苹果，安卓等移动端上使用。 `[error][-1]timeout`
 1. [[⭐] https://www.figma.com/community/widget/1274481464484630971/jambot](https://www.figma.com/community/widget/1274481464484630971/jambot) **Jambot。** Figma的插件工具，Jambot会帮助您激发初稿并更快地取得进展，借助 Jambot，您可以利用 AI 创建视觉思维导图，采用多线程方法进行头脑风暴，并在同一画布中与队友和 ChatGPT 一起产生想法。
 1. [[⭐] https://www.processon.com](https://www.processon.com) **ProcessOn。** ProcessOn 是一款专业在线作图工具和知识分享社区，支持 AI 生成思维导图、流程图等多种图形，实现多人实时在线协作。功能丰富，支持 Markdown、LaTeX 数学公式插入，可导出为大纲、Word 等格式。团队协作共享，提升工作效率。免费使用，提供团队版服务。
 1. [[⭐⭐💰🔑🧑‍💻] https://shutu.cn](https://shutu.cn) **TreeMind树图。**
@@ -944,10 +941,7 @@ Memkey的定价信息请查阅官方网站。该产品定位于提升团队的�
 1. [[⭐] https://bigesj.com/ai-ppt/](https://bigesj.com/ai-ppt/) **比格PPT。** 比格PPT是一款功能强大的在线智能PPT设计SaaS平台。用户可以通过语言描述快速自动生成PPT,大大提升工作效率。平台拥有10000+精美PPT模板,覆盖商业、教育等多个行业场景。用户还可以利用平台强大的AI功能,一键优化PPT内容,实现高质量的演示文稿内容。平台提供了多种订阅方案,个人用户每月最低¥19元起,企业用户可享受更优惠价格
 1. [[⭐] https://botsheets.com](https://botsheets.com) **Botsheets AI Writer。** Botsheets是一款使用Google Sheets作为CMS的Chat自动化工具。它可以将聊天对话转化为结构化数据，并生成Google Sheets，同时可以使用Google Sheets中的数据触发自动化响应。它可以帮助您轻松管理聊天内容，并自动生成自动化回复。无需编写复杂的代码，只需简单设置，即可实现Chat的自动化。
 1. [[⭐] https://chat-ppt.com](https://chat-ppt.com) **ChatPPT。** 必优科技推出的中文AI生成PPT的办公产品
-1. [[⭐] https://chatdoc.xfyun.cn](https://chatdoc.xfyun.cn) **星火知识库。** 讯飞星火知识库文档问答是科大讯飞基于讯飞星火大模型和星火知识库搭建的文档问答服务，能够高效检索文档信息，准确回答专业问题。具备多文档问答，文档知识库，信源原文定位，文档总结，自定义切分等功能。 `[error][-1]AggregateError [ETIMEDOUT]: 
-    at internalConnectMultiple (node:net:1492:18)
-    at internalConnectMultiple (node:net:1568:5)
-    at Timeout.internalConnectMultipleTimeout (node:net:2188:`
+1. [[⭐] https://chatdoc.xfyun.cn](https://chatdoc.xfyun.cn) **星火知识库。** 讯飞星火知识库文档问答是科大讯飞基于讯飞星火大模型和星火知识库搭建的文档问答服务，能够高效检索文档信息，准确回答专业问题。具备多文档问答，文档知识库，信源原文定位，文档总结，自定义切分等功能。
 1. [[⭐] https://chatexcel.com](https://chatexcel.com) **酷表ChatExcel。** 酷表ChatExcel是通过文字聊天实现Excel的交互控制的AI辅助工具，期望通过对表输入需求即可得到处理后的数据。
 1. [[⭐] https://chatmind.tech/editor](https://chatmind.tech/editor) **Chatmind AI。** Chatmind 是一款由 Xmind 团队推出的免费在线 AI 思维导图和头脑风暴工具，通过 ChatGPT 技术，帮助用户在几分钟内创建思维导图。用户可以通过简单的文本描述生成思维导图，快速总结文档或 URL 链接为思维导图，与 AI 对话产生创意并整合到思维导图中，描述文本即可立即生成图像，轻松为任何主题创建视觉内容，自动保存文件历史以便跨设备访问，编辑文本和重新排列主题轻松自如，将思维导图转化为幻灯片展示只需一键，轻松以多种格式分享思维导图。
 1. [[⭐] https://excelbot.io](https://excelbot.io) **ExcelBot。** ExcelBot是一个AI驱动的Excel公式和VBA代码生成器。它可以将自然语言文本请求转化为Excel公式或VBA代码,无论您是否擅长Excel。它可以帮助初学者无需编程经验就可以编写复杂的Excel公式和VBA代码,也可以帮助专业人士自动完成繁琐的Excel任务。主要功能包括:支持多种语言输入;提供公式和代码结果解释;支持公式和代码的编辑和复制等。该产品可用于各类Excel数据处理和分析场景,有助于提升工作效率。
@@ -1029,10 +1023,7 @@ Memkey的定价信息请查阅官方网站。该产品定位于提升团队的�
 1. [[⭐] https://bigesj.com/ai-ppt/](https://bigesj.com/ai-ppt/) **比格PPT。** 比格PPT是一款功能强大的在线智能PPT设计SaaS平台。用户可以通过语言描述快速自动生成PPT,大大提升工作效率。平台拥有10000+精美PPT模板,覆盖商业、教育等多个行业场景。用户还可以利用平台强大的AI功能,一键优化PPT内容,实现高质量的演示文稿内容。平台提供了多种订阅方案,个人用户每月最低¥19元起,企业用户可享受更优惠价格
 1. [[⭐] https://botsheets.com](https://botsheets.com) **Botsheets AI Writer。** Botsheets是一款使用Google Sheets作为CMS的Chat自动化工具。它可以将聊天对话转化为结构化数据，并生成Google Sheets，同时可以使用Google Sheets中的数据触发自动化响应。它可以帮助您轻松管理聊天内容，并自动生成自动化回复。无需编写复杂的代码，只需简单设置，即可实现Chat的自动化。
 1. [[⭐] https://chat-ppt.com](https://chat-ppt.com) **ChatPPT。** 必优科技推出的中文AI生成PPT的办公产品
-1. [[⭐] https://chatdoc.xfyun.cn](https://chatdoc.xfyun.cn) **星火知识库。** 讯飞星火知识库文档问答是科大讯飞基于讯飞星火大模型和星火知识库搭建的文档问答服务，能够高效检索文档信息，准确回答专业问题。具备多文档问答，文档知识库，信源原文定位，文档总结，自定义切分等功能。 `[error][-1]AggregateError [ETIMEDOUT]: 
-    at internalConnectMultiple (node:net:1492:18)
-    at internalConnectMultiple (node:net:1568:5)
-    at Timeout.internalConnectMultipleTimeout (node:net:2188:`
+1. [[⭐] https://chatdoc.xfyun.cn](https://chatdoc.xfyun.cn) **星火知识库。** 讯飞星火知识库文档问答是科大讯飞基于讯飞星火大模型和星火知识库搭建的文档问答服务，能够高效检索文档信息，准确回答专业问题。具备多文档问答，文档知识库，信源原文定位，文档总结，自定义切分等功能。
 1. [[⭐] https://chatexcel.com](https://chatexcel.com) **酷表ChatExcel。** 酷表ChatExcel是通过文字聊天实现Excel的交互控制的AI辅助工具，期望通过对表输入需求即可得到处理后的数据。
 1. [[⭐] https://chatmind.tech/editor](https://chatmind.tech/editor) **Chatmind AI。** Chatmind 是一款由 Xmind 团队推出的免费在线 AI 思维导图和头脑风暴工具，通过 ChatGPT 技术，帮助用户在几分钟内创建思维导图。用户可以通过简单的文本描述生成思维导图，快速总结文档或 URL 链接为思维导图，与 AI 对话产生创意并整合到思维导图中，描述文本即可立即生成图像，轻松为任何主题创建视觉内容，自动保存文件历史以便跨设备访问，编辑文本和重新排列主题轻松自如，将思维导图转化为幻灯片展示只需一键，轻松以多种格式分享思维导图。
 1. [[⭐] https://excelbot.io](https://excelbot.io) **ExcelBot。** ExcelBot是一个AI驱动的Excel公式和VBA代码生成器。它可以将自然语言文本请求转化为Excel公式或VBA代码,无论您是否擅长Excel。它可以帮助初学者无需编程经验就可以编写复杂的Excel公式和VBA代码,也可以帮助专业人士自动完成繁琐的Excel任务。主要功能包括:支持多种语言输入;提供公式和代码结果解释;支持公式和代码的编辑和复制等。该产品可用于各类Excel数据处理和分析场景,有助于提升工作效率。
@@ -1115,10 +1106,7 @@ Memkey的定价信息请查阅官方网站。该产品定位于提升团队的�
 1. [[⭐⭐⭐] https://www.coze.com](https://www.coze.com) **Coze国际版。** Coze是一款下一代AI聊天机器人构建平台，能够快速创建、调试和优化AI聊天机器人应用程序。用户可以在不编写代码的情况下快速创建机器人，并将其发布到各种平台上。Coze还提供了丰富的插件，可以扩展机器人的能力，让机器人与数据互动，将想法转化为机器人技能，装备机器人长期记忆，并允许机器人启动对话。
 1. [[⭐⭐⭐] https://www.deepseek.com](https://www.deepseek.com) **deepseek。** DeepSeek-V2是一款基于2千亿参数量的MoE（Mixture of Experts）模型的AI技术产品，它在对话官网和API上全面上线，提供领先性能和超低价格。该产品在中文综合能力（AlignBench）和英文综合能力（MT-Bench）的评测中表现出色，与GPT-4-Turbo等闭源模型处于同一梯队。DeepSeek-V2支持128K上下文的开源模型，而对话官网/API支持32K上下文。产品的主要优点包括即刻接入、能力卓越、价格低廉，并且兼容OpenAI API接口，提供丝滑的体验。
 1. [[⭐⭐⭐] https://www.doubao.com/chat/](https://www.doubao.com/chat/) **豆包Chat。** 基于字节跳动研发的云雀大语言模型的Chat应用
-1. [[⭐⭐⭐🧑‍💻] https://www.stepfun.com](https://www.stepfun.com) **阶跃AI。** 阶跃AI是阶跃星辰推出的一个聪明可靠的个人效率助手，可以帮你获取知识、查询信息、学习语言、创意写作、编写代码，在工作、学习、生活等各种场景下帮你解决问题。带你发现和理解世界 `[error][-1]AggregateError [ETIMEDOUT]: 
-    at internalConnectMultiple (node:net:1492:18)
-    at internalConnectMultiple (node:net:1568:5)
-    at Timeout.internalConnectMultipleTimeout (node:net:2188:`
+1. [[⭐⭐⭐🧑‍💻] https://www.stepfun.com](https://www.stepfun.com) **阶跃AI。** 阶跃AI是阶跃星辰推出的一个聪明可靠的个人效率助手，可以帮你获取知识、查询信息、学习语言、创意写作、编写代码，在工作、学习、生活等各种场景下帮你解决问题。带你发现和理解世界
 1. [[⭐⭐⭐] https://www.tiangong.cn](https://www.tiangong.cn) **天工Agent版。** 天工Skywork是一款具备超强DeepResearch能力的全新AI Office智能体，通过3个专家agent和1个通用agent，让AI深度研究，一键生成AI文档、AI PPT、AI表格，高效应对各类办公、学习场景；也支持网页html、图像、视频、有声书、绘本等多种形式的创意内容创作，激发无限灵感。天工Skywork融合先进的多模态理解与深度检索分析技术，一问即得科研级、专业级、咨询级的高质量结果，帮助你摆脱繁琐事务，显著提升效率。无论你是职场白领、科研人员、大学生、研究生，还是自媒体KOL，天工Skywork都将是你值得信赖的智能伙伴，助你专注思考、释放创造力。
 1. [[⭐⭐⭐] https://www.tongyi.com](https://www.tongyi.com) **通义千问。** 阿里达摩院提供的一个不断进化的AI大模型
 1. [[⭐⭐⭐] https://xiaoyi.huawei.com/chat/](https://xiaoyi.huawei.com/chat/) **小艺。** 小艺是华为推出的智能助手，集成了自然语言处理和机器学习技术，能够提供聊天、写作、编程、翻译等多种功能。它基于深度学习模型，能够理解用户的问题并给出准确的回答。小艺的主要优点是功能丰富、响应速度快、智能化程度高。作为华为生态的一部分，小艺致力于为用户提供便捷的智能服务，提升用户体验。
@@ -1345,7 +1333,7 @@ Memkey的定价信息请查阅官方网站。该产品定位于提升团队的�
 1. [[⭐] https://www.x-design.com](https://www.x-design.com) **美图 AI PPT。** 美图设计室是一款由中国互联网公司美图公司开发的图像处理、照片编辑和设计软件。
 1. [[⭐] https://www.youchuan.com](https://www.youchuan.com) **悠船。** 悠船是Midjourney国内中文版本人工智能图像生成桌面客户端软件。它可以通过文字描述来生成图像,支持团队协作和高级控制,提供多种定价方案。主要功能包括文生图、协作创作、控制面板等。适合创意工作者、设计师、艺术家等群体使用,可以提高创意效率,激发灵感。
 1. [[⭐] https://yige.baidu.com](https://yige.baidu.com) **文心一格。** 百度旗下AI艺术和创意辅助平台
-1. [[⭐] https://youyan.xyz/platform/home/prime](https://youyan.xyz/platform/home/prime) **有言。** 一站式AI视频创作，1200+免费3D数字人
+1. [[⭐] https://youyan.xyz/platform/home/prime](https://youyan.xyz/platform/home/prime) **有言。** 一站式AI视频创作，1200+免费3D数字人 `[error][-1]timeout`
 1. [[⭐] https://yunxiu.meitu.com/home](https://yunxiu.meitu.com/home) **美图云修。** 商业级AI影像处理工具
 1. [[⭐] https://zenvideo.qq.com](https://zenvideo.qq.com) **腾讯智影。** 腾讯出品的融合多种AIGC能力进行智能视频创作的一体化工具。
 1. [[⭐⭐⭐🚀] https://pika.art](https://pika.art) **Pika。** Pika致力于用AI让每个人都能成为自己故事的导演，并激发我们每个人的创造力。
@@ -1400,14 +1388,8 @@ Memkey的定价信息请查阅官方网站。该产品定位于提升团队的�
 1. [[⭐⭐⭐] https://www.codebuddy.cn/work/](https://www.codebuddy.cn/work/) **WorkBuddy腾讯版龙虾。** WorkBuddy 是 AI 原生的桌面智能体工作台，可在手机主流 IM 下指令，AI 自动干活交付
 1. [[⭐⭐⭐] https://www.coze.cn](https://www.coze.cn) **扣子。** 扣子是强大的AI办公助手，基于Agent技术，集成了AI写作、AI PPT生成、AI表格处理、AI设计、AI播客、AI生图与AI视频等全功能。扣子助力财经分析、市场营销等多场景办公任务自动化，全面提升工作效率。
 1. [[⭐⭐⭐] https://www.coze.com](https://www.coze.com) **Coze国际版。** Coze是一款下一代AI聊天机器人构建平台，能够快速创建、调试和优化AI聊天机器人应用程序。用户可以在不编写代码的情况下快速创建机器人，并将其发布到各种平台上。Coze还提供了丰富的插件，可以扩展机器人的能力，让机器人与数据互动，将想法转化为机器人技能，装备机器人长期记忆，并允许机器人启动对话。
-1. [[⭐⭐⭐🧑‍💻] https://www.stepfun.com](https://www.stepfun.com) **阶跃AI。** 阶跃AI是阶跃星辰推出的一个聪明可靠的个人效率助手，可以帮你获取知识、查询信息、学习语言、创意写作、编写代码，在工作、学习、生活等各种场景下帮你解决问题。带你发现和理解世界 `[error][-1]AggregateError [ETIMEDOUT]: 
-    at internalConnectMultiple (node:net:1492:18)
-    at internalConnectMultiple (node:net:1568:5)
-    at Timeout.internalConnectMultipleTimeout (node:net:2188:`
-1. [[⭐⭐⭐] https://www.stepfun.com/download](https://www.stepfun.com/download) **阶跃AI Desktop。** 阶跃AI是一个聪明可靠的个人效率助手。在你操作系统上的Agent，发现并主动完成任务。支持网页和文件的浏览、填写、修改与创建等多类操作，帮你用语言操控电脑 `[error][-1]AggregateError [ETIMEDOUT]: 
-    at internalConnectMultiple (node:net:1492:18)
-    at internalConnectMultiple (node:net:1568:5)
-    at Timeout.internalConnectMultipleTimeout (node:net:2188:`
+1. [[⭐⭐⭐🧑‍💻] https://www.stepfun.com](https://www.stepfun.com) **阶跃AI。** 阶跃AI是阶跃星辰推出的一个聪明可靠的个人效率助手，可以帮你获取知识、查询信息、学习语言、创意写作、编写代码，在工作、学习、生活等各种场景下帮你解决问题。带你发现和理解世界
+1. [[⭐⭐⭐] https://www.stepfun.com/download](https://www.stepfun.com/download) **阶跃AI Desktop。** 阶跃AI是一个聪明可靠的个人效率助手。在你操作系统上的Agent，发现并主动完成任务。支持网页和文件的浏览、填写、修改与创建等多类操作，帮你用语言操控电脑
 1. [[⭐⭐⭐] https://www.tiangong.cn](https://www.tiangong.cn) **天工Agent版。** 天工Skywork是一款具备超强DeepResearch能力的全新AI Office智能体，通过3个专家agent和1个通用agent，让AI深度研究，一键生成AI文档、AI PPT、AI表格，高效应对各类办公、学习场景；也支持网页html、图像、视频、有声书、绘本等多种形式的创意内容创作，激发无限灵感。天工Skywork融合先进的多模态理解与深度检索分析技术，一问即得科研级、专业级、咨询级的高质量结果，帮助你摆脱繁琐事务，显著提升效率。无论你是职场白领、科研人员、大学生、研究生，还是自媒体KOL，天工Skywork都将是你值得信赖的智能伙伴，助你专注思考、释放创造力。
 1. [[⭐⭐⭐] https://www.zeroclawlabs.ai](https://www.zeroclawlabs.ai) **ZeroClaw。** 基于 Rust 构建的快速、小型、完全自主的 AI 助手基础设施，支持任意部署、任意替换组件，安全优先设计。
 1. [[⭐⭐⭐] https://yuanbao.tencent.com](https://yuanbao.tencent.com) **腾讯元宝。** 腾讯元宝是依托于腾讯混元大模型的AI产品。通过AI能力帮助用户在办公、学习、创作、生活等领域提供效率和生活辅助
