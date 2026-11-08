@@ -678,7 +678,9 @@
       ],
       "type": [
         "AI 聊天对话"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://antigravity.google": {
       "title": "Google Antigravity",
@@ -1257,7 +1259,9 @@
         "AI 提示词"
       ],
       "title": "Catjourney",
-      "desc": "超多实用的 MJ Style Tuner风格库"
+      "desc": "超多实用的 MJ Style Tuner风格库",
+      "needVerify": 1,
+      "errmsg": "[error][200]<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href=\"/lander\"}</script></head></html>"
     },
     "https://catpaw.meituan.com": {
       "title": "Meituan CatPaw",
@@ -2078,7 +2082,9 @@
       ],
       "star": 2,
       "title": "阿里堆友",
-      "desc": "堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。"
+      "desc": "堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1492:18)\n    at internalConnectMultiple (node:net:1568:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2188:"
     },
     "https://dashtoon.com": {
       "title": "Dashtoon",
@@ -8847,7 +8853,9 @@
         "AI 聊天对话"
       ],
       "title": "零一万物",
-      "desc": "零一万物是由李开复老师创办的，致力于成为一家由技术愿景驱动、拥有卓越中国工程底蕴的创新企业，推动以基座大模型为突破的AI 2.0掀起技术、平台到应用多个层面的革命。"
+      "desc": "零一万物是由李开复老师创办的，致力于成为一家由技术愿景驱动、拥有卓越中国工程底蕴的创新企业，推动以基座大模型为突破的AI 2.0掀起技术、平台到应用多个层面的革命。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.logoai.com": {
       "title": "LogoAI",
