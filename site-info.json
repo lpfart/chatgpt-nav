@@ -678,9 +678,7 @@
       ],
       "type": [
         "AI 聊天对话"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://antigravity.google": {
       "title": "Google Antigravity",
@@ -1260,7 +1258,7 @@
       ],
       "title": "Catjourney",
       "desc": "超多实用的 MJ Style Tuner风格库",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][200]<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href=\"/lander\"}</script></head></html>"
     },
     "https://catpaw.meituan.com": {
@@ -2082,9 +2080,7 @@
       ],
       "star": 2,
       "title": "阿里堆友",
-      "desc": "堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1492:18)\n    at internalConnectMultiple (node:net:1568:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2188:"
+      "desc": "堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。"
     },
     "https://dashtoon.com": {
       "title": "Dashtoon",
@@ -8059,7 +8055,9 @@
       "desc": "万兴科技旗下的亿图脑图MindMaster软件是一款多平台思维导图软件，可用于Windows，Mac和Linux等桌面环境，也可以在线使用或在苹果，安卓等移动端上使用。",
       "type": [
         "AI 思维导图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.elegantresume.pro": {
       "title": "优雅简历",
@@ -8853,9 +8851,7 @@
         "AI 聊天对话"
       ],
       "title": "零一万物",
-      "desc": "零一万物是由李开复老师创办的，致力于成为一家由技术愿景驱动、拥有卓越中国工程底蕴的创新企业，推动以基座大模型为突破的AI 2.0掀起技术、平台到应用多个层面的革命。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "零一万物是由李开复老师创办的，致力于成为一家由技术愿景驱动、拥有卓越中国工程底蕴的创新企业，推动以基座大模型为突破的AI 2.0掀起技术、平台到应用多个层面的革命。"
     },
     "https://www.logoai.com": {
       "title": "LogoAI",
@@ -8911,7 +8907,9 @@
         "AI 图像处理"
       ],
       "title": "标小智",
-      "desc": "标小智是一款智能LOGO在线设计生成器。只需输入品牌名称就能免费在线生成公司logo设计，商标设计，以及配套企业VI助您打造个性品牌。"
+      "desc": "标小智是一款智能LOGO在线设计生成器。只需输入品牌名称就能免费在线生成公司logo设计，商标设计，以及配套企业VI助您打造个性品牌。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.loom.com": {
       "type": [
@@ -10405,7 +10403,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.xingyeai.com": {
       "type": [
