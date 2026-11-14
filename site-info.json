@@ -1258,8 +1258,9 @@
       ],
       "title": "Catjourney",
       "desc": "超多实用的 MJ Style Tuner风格库",
-      "needVerify": 6,
-      "errmsg": "[error][200]<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href=\"/lander\"}</script></head></html>"
+      "needVerify": 7,
+      "errmsg": "[error][200]<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href=\"/lander\"}</script></head></html>",
+      "hide": 1
     },
     "https://catpaw.meituan.com": {
       "title": "Meituan CatPaw",
@@ -6628,9 +6629,7 @@
       ],
       "star": 2,
       "title": "TTSMaker马克配音",
-      "desc": "免费的在线文本转语音神器",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "免费的在线文本转语音神器"
     },
     "https://tusiart.com": {
       "type": [
@@ -6751,7 +6750,9 @@
         "AI 视频生成"
       ],
       "title": "Virbo",
-      "desc": "Virbo是一款万兴科技旗下的数字人营销视频创作神器。"
+      "desc": "Virbo是一款万兴科技旗下的数字人营销视频创作神器。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://vizard.ai": {
       "type": [
@@ -9068,8 +9069,8 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 4,
-      "errmsg": "[error][503]Service Unavailable"
+      "needVerify": 5,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.moki.cn"
     },
     "https://www.morphstudio.com": {
       "title": "Morph Studio",
@@ -10501,7 +10502,7 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.ysdaima.com": {
