@@ -1054,9 +1054,7 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://bibigpt.co": {
       "type": [
@@ -1152,7 +1150,7 @@
       ],
       "title": "Toolkit",
       "desc": "多功能的AI图片处理工具箱",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://booltool.boolv.tech/home": {
@@ -1542,9 +1540,7 @@
       "type": [
         "AI 文档办公",
         "AI 学习资源"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1492:18)\n    at internalConnectMultiple (node:net:1568:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2188:"
+      ]
     },
     "https://chatexcel.com": {
       "title": "酷表ChatExcel",
@@ -1913,9 +1909,7 @@
       ],
       "type": [
         "AI 编程开发"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1492:18)\n    at internalConnectMultiple (node:net:1568:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2188:"
+      ]
     },
     "https://colossyan.com": {
       "title": "Colossyan Creator",
@@ -1979,7 +1973,7 @@
         "AI 国外工具",
         "AI 写作助手"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]socket hang up"
     },
     "https://copaw.agentscope.io": {
@@ -2091,9 +2085,7 @@
       ],
       "star": 2,
       "title": "阿里堆友",
-      "desc": "堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1492:18)\n    at internalConnectMultiple (node:net:1568:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2188:"
+      "desc": "堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。"
     },
     "https://dashtoon.com": {
       "title": "Dashtoon",
@@ -2197,7 +2189,9 @@
       ],
       "tags": [
         "CLI"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://docs.factory.ai": {
       "title": "Factory Droid",
@@ -3384,9 +3378,7 @@
         "AI 图像处理"
       ],
       "title": "PLUG AI",
-      "desc": "AI辅助包装设计！并对包装方案生成分析评估",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "AI辅助包装设计！并对包装方案生成分析评估"
     },
     "https://huemint.com/brand-intersection": {
       "type": [
@@ -6764,9 +6756,7 @@
         "AI 视频生成"
       ],
       "title": "Virbo",
-      "desc": "Virbo是一款万兴科技旗下的数字人营销视频创作神器。",
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
+      "desc": "Virbo是一款万兴科技旗下的数字人营销视频创作神器。"
     },
     "https://vizard.ai": {
       "type": [
@@ -7125,9 +7115,7 @@
       ],
       "type": [
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][502]Bad Gateway"
+      ]
     },
     "https://www.5118.com/ai/articlegenius": {
       "type": [
@@ -7486,9 +7474,7 @@
         "国产大模型"
       ],
       "title": "百川智能",
-      "desc": "百川智能旗下的AI对话助手",
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1492:18)\n    at internalConnectMultiple (node:net:1568:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2188:"
+      "desc": "百川智能旗下的AI对话助手"
     },
     "https://www.beatoven.ai": {
       "title": "Beatoven.ai",
@@ -7688,9 +7674,7 @@
       "needLogin": 1,
       "desc": "一站式AIGC平台，集成Chatgpt、Claude、ChatGLM、Midjourney、DALL-E、Flux.1、Suno等全网顶级AI大模型，实现文本创作、图片生成、音乐创作一站式生成。",
       "title": "星界AI|一站式AIGC平台",
-      "needPwd": 1,
-      "needVerify": 1,
-      "errmsg": "[error][402]Payment Required"
+      "needPwd": 1
     },
     "https://www.chatbase.co": {
       "type": [
@@ -8635,9 +8619,7 @@
       ],
       "type": [
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1492:18)\n    at internalConnectMultiple (node:net:1568:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2188:"
+      ]
     },
     "https://www.ixigo.com/plan": {
       "type": [
@@ -9091,8 +9073,9 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.moki.cn"
+      "needVerify": 7,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.moki.cn",
+      "hide": 1
     },
     "https://www.morphstudio.com": {
       "title": "Morph Studio",
@@ -9896,9 +9879,7 @@
         "大厂合集",
         "智能体",
         "API"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1492:18)\n    at internalConnectMultiple (node:net:1568:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2188:"
+      ]
     },
     "https://www.stepfun.com/download": {
       "title": "阶跃AI Desktop",
@@ -10312,9 +10293,7 @@
         "AI 图像处理"
       ],
       "title": "美图WHEE",
-      "desc": "WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1492:18)\n    at internalConnectMultiple (node:net:1568:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2188:"
+      "desc": "WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。"
     },
     "https://www.wix.com/logo/maker": {
       "title": "Wix Logo Maker",
@@ -10528,7 +10507,7 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.ysdaima.com": {
@@ -10837,9 +10816,7 @@
         "AI 绘图"
       ],
       "title": "美图云修",
-      "desc": "商业级AI影像处理工具",
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1492:18)\n    at internalConnectMultiple (node:net:1568:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2188:"
+      "desc": "商业级AI影像处理工具"
     },
     "https://z.ai": {
       "title": "Z.ai",
@@ -10929,9 +10906,7 @@
       "type": [
         "AI 文档办公",
         "AI 学习资源"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1492:18)\n    at internalConnectMultiple (node:net:1568:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2188:"
+      ]
     },
     "https://zhumengdao.com": {
       "title": "筑梦岛",
