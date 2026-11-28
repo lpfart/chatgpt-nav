@@ -1150,7 +1150,7 @@
       ],
       "title": "Toolkit",
       "desc": "多功能的AI图片处理工具箱",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://booltool.boolv.tech/home": {
@@ -2083,9 +2083,7 @@
       ],
       "star": 2,
       "title": "阿里堆友",
-      "desc": "堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1492:18)\n    at internalConnectMultiple (node:net:1568:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2188:"
+      "desc": "堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。"
     },
     "https://dashtoon.com": {
       "title": "Dashtoon",
@@ -2422,9 +2420,7 @@
       "type": [
         "AI 文档办公",
         "AI 学习资源"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][404]Not Found"
+      ]
     },
     "https://explainthis.ai": {
       "title": "ExplainThis",
@@ -6080,7 +6076,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://shangchenzhou.com/projects/CodeFormer/": {
       "title": "CodeFormer",
@@ -6756,7 +6754,9 @@
         "AI 视频生成"
       ],
       "title": "Virbo",
-      "desc": "Virbo是一款万兴科技旗下的数字人营销视频创作神器。"
+      "desc": "Virbo是一款万兴科技旗下的数字人营销视频创作神器。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://vizard.ai": {
       "type": [
@@ -7115,7 +7115,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.5118.com/ai/articlegenius": {
       "type": [
@@ -8299,7 +8301,9 @@
       "star": 2,
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.glean.com": {
       "title": "Glean",
@@ -9979,7 +9983,7 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][402]Payment Required"
     },
     "https://www.tabnine.com": {
